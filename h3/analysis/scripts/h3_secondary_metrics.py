@@ -20,18 +20,13 @@ from statistics import median
 #     TASK=... | MODEL=... | BASELINE | SEED=...
 # ============================================================
 
-LOG_DIR = Path("results") / "batch_logs"
-
 SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent.parent
+H3_ROOT = SCRIPT_DIR.parent.parent
+REPO_ROOT = H3_ROOT.parent
 
-ANALYSIS_DIR = REPO_ROOT / "analysis"
-SECONDARY_DIR = ANALYSIS_DIR / "tables" / "secondary_metrics"
+LOG_DIR = H3_ROOT / "results" / "batch_logs"
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent.parent
-
-ANALYSIS_DIR = REPO_ROOT / "analysis"
+ANALYSIS_DIR = H3_ROOT / "analysis"
 TABLES_DIR = ANALYSIS_DIR / "tables"
 SECONDARY_DIR = TABLES_DIR / "secondary_metrics"
 

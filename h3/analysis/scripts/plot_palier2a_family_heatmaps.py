@@ -5,18 +5,17 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent.parent
+H3_ROOT = SCRIPT_DIR.parent.parent
+REPO_ROOT = H3_ROOT.parent
 
-ANALYSIS_DIR = REPO_ROOT / "analysis"
-TABLES_DIR = ANALYSIS_DIR / "tables"
-H3_DIR = TABLES_DIR / "h3"
+ANALYSIS_DIR = H3_ROOT / "analysis"
 
 PLOT_DIR = ANALYSIS_DIR / "plots" / "family"
 PLOT_DIR.mkdir(parents=True, exist_ok=True)
 
-NEG_MATRIX = H3_DIR / "palier2a_family_negative_original_delta_matrix.csv"
-H3_MATRIX = H3_DIR / "palier2a_family_h3_delta_matrix.csv"
-CONTRAST_MATRIX = H3_DIR / "palier2a_family_h3_minus_negative_original_matrix.csv"
+NEG_MATRIX = ANALYSIS_DIR / "tables" / "h3" / "palier2a_family_negative_original_delta_matrix.csv"
+H3_MATRIX = ANALYSIS_DIR / "tables" / "h3" / "palier2a_family_h3_delta_matrix.csv"
+CONTRAST_MATRIX = ANALYSIS_DIR / "tables" / "h3" / "palier2a_family_h3_minus_negative_original_matrix.csv"
 
 FAMILY_ORDER = [
     "causal_reasoning",

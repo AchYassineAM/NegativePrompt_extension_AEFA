@@ -34,13 +34,14 @@ from pathlib import Path
 # CHEMINS
 # ============================================================
 
-BASELINE_RESULTS = Path("results") / "baseline"
-NEGATIVE_RESULTS = Path("results") / "negative_original"
-
 SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent.parent
+H3_ROOT = SCRIPT_DIR.parent.parent
+REPO_ROOT = H3_ROOT.parent
 
-ANALYSIS_DIR = REPO_ROOT / "analysis"
+BASELINE_RESULTS = H3_ROOT / "results" / "baseline"
+NEGATIVE_RESULTS = H3_ROOT / "results" / "negative_original"
+
+ANALYSIS_DIR = H3_ROOT / "analysis"
 TABLES_DIR = ANALYSIS_DIR / "tables"
 H3_DIR = TABLES_DIR / "h3"
 

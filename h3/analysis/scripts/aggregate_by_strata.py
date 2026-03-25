@@ -33,18 +33,14 @@ from collections import defaultdict
 # - delta_vs_baseline
 # ============================================================
 
-ROOT_RESULTS = Path("results")
-STRATA_PATH = Path("configs") / "task_strata.json"
 SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent.parent
+H3_ROOT = SCRIPT_DIR.parent.parent
+REPO_ROOT = H3_ROOT.parent
 
-ANALYSIS_DIR = REPO_ROOT / "analysis"
-TABLES_DIR = ANALYSIS_DIR / "tables"
+ROOT_RESULTS = H3_ROOT / "results"
+STRATA_PATH = REPO_ROOT / "configs" / "task_strata.json"
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent.parent
-
-ANALYSIS_DIR = REPO_ROOT / "analysis"
+ANALYSIS_DIR = H3_ROOT / "analysis"
 TABLES_DIR = ANALYSIS_DIR / "tables"
 STIMULUS_TASK_DIR = TABLES_DIR / "stimulus_task"
 

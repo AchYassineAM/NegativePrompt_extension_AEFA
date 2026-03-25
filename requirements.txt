@@ -1,0 +1,6 @@
+fire
+matplotlib
+numpy
+pandas
+torch
+transformers

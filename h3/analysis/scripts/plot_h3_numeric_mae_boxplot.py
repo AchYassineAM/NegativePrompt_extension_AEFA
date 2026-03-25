@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 
 # ============================================================
-# BOXPLOT 10 BOITES - MEDIAN ABS ERROR PAR STIMULUS
+# BOXPLOT 10 BOITES - PRECISION NUMERIQUE PAR STIMULUS
 # ============================================================
 #
 # 5 colonnes = 5 catégories H3
@@ -12,26 +12,29 @@ from matplotlib.patches import Patch
 #   - baseline
 #   - catégorie H3 correspondante
 #
+# Cela donne 10 boxplots au total.
+#
 # Restriction :
 #   - uniquement les tâches numériques : sum et diff
 #
-# Les boîtes contiennent les valeurs de median_abs_error.
+# Les boîtes contiennent les valeurs de mean_abs_error
+# au niveau le plus fin disponible dans les fichiers.
 # ============================================================
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent.parent
 
-ANALYSIS_DIR = REPO_ROOT / "analysis"
-TABLES_DIR = ANALYSIS_DIR / "tables"
-SECONDARY_DIR = TABLES_DIR / "secondary_metrics"
+SCRIPT_DIR = Path(__file__).resolve().parent
+H3_ROOT = SCRIPT_DIR.parent.parent
+REPO_ROOT = H3_ROOT.parent
+
+ANALYSIS_DIR = H3_ROOT / "analysis"
 PLOT_DIR = ANALYSIS_DIR / "plots" / "h3"
 PLOT_DIR.mkdir(parents=True, exist_ok=True)
 
-PRIMARY_FILE = SECONDARY_DIR / "h3_secondary_metrics_numeric.csv"
-FALLBACK_FILE = SECONDARY_DIR / "aggregated_secondary_metrics_numeric.csv"
+PRIMARY_FILE = ANALYSIS_DIR / "tables" / "secondary_metrics" / "h3_secondary_metrics_numeric.csv"
+FALLBACK_FILE = ANALYSIS_DIR / "tables" / "secondary_metrics" / "aggregated_secondary_metrics_numeric.csv"
 
 OUTPUT_PNG = PLOT_DIR / "h3_numeric_median_abs_error_10_boxplots_sum_diff.png"
-OUTPUT_CSV = ANALYSIS_DIR / "h3_numeric_median_abs_error_10_boxplots_sum_diff_source.csv"
+OUTPUT_CSV = ANALYSIS_DIR / "tables" / "sources_for_plots" / "h3_numeric_median_abs_error_10_boxplots_sum_diff_source.csv"
 
 H3_GROUPS = [
     "competence_threat",
@@ -48,6 +51,9 @@ COLOR_H3 = "#54A24B"
 
 
 def load_numeric_data() -> pd.DataFrame:
+    """
+    Charge et fusionne les fichiers numériques disponibles.
+    """
     frames = []
 
     if PRIMARY_FILE.exists():
@@ -69,7 +75,7 @@ def load_numeric_data() -> pd.DataFrame:
     df = pd.concat(frames, ignore_index=True, sort=False)
 
     candidate_subset = [
-        c for c in ["task", "stimulus_group", "seed", "model", "median_abs_error"]
+        c for c in ["task", "stimulus_group", "seed", "model", "mean_abs_error"]
         if c in df.columns
     ]
     if candidate_subset:
@@ -91,16 +97,19 @@ def detect_column(df: pd.DataFrame, candidates: list[str], label: str) -> str:
 
 
 def prepare_dataframe(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Normalise les noms de colonnes utiles.
+    """
     stimulus_col = detect_column(
         df,
         ["stimulus_group", "group", "condition"],
         "stimulus group"
     )
 
-    medae_col = detect_column(
+    mae_col = detect_column(
         df,
-        ["median_abs_error", "median_ae", "abs_error_median"],
-        "median absolute error"
+        ["mean_abs_error", "mae", "abs_error_mean"],
+        "mean absolute error"
     )
 
     task_col = detect_column(
@@ -124,17 +133,20 @@ def prepare_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     out = pd.DataFrame({
         "task": df[task_col].astype(str).str.strip(),
         "stimulus_group": df[stimulus_col].astype(str).str.strip(),
-        "median_abs_error": pd.to_numeric(df[medae_col], errors="coerce"),
+        "mean_abs_error": pd.to_numeric(df[mae_col], errors="coerce"),
     })
 
     out["seed"] = df[seed_col] if seed_col is not None else "NA"
     out["model"] = df[model_col] if model_col is not None else "NA"
 
-    out = out.dropna(subset=["median_abs_error"]).copy()
+    out = out.dropna(subset=["mean_abs_error"]).copy()
     return out
 
 
 def keep_relevant_rows(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Garde baseline + catégories H3, uniquement pour sum et diff.
+    """
     allowed_groups = {"baseline", *H3_GROUPS}
     out = df[
         df["stimulus_group"].isin(allowed_groups) &
@@ -151,6 +163,11 @@ def keep_relevant_rows(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def build_boxplot_source(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Construit la table plate source pour les 10 boîtes.
+    Dans chaque colonne H3, on répète baseline,
+    puis on ajoute la catégorie H3 propre à la colonne.
+    """
     rows = []
 
     base_df = df[df["stimulus_group"] == "baseline"].copy()
@@ -184,6 +201,9 @@ def build_boxplot_source(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def plot_boxplots(source_df: pd.DataFrame) -> None:
+    """
+    Produit le graphique à 10 boxplots.
+    """
     fig, ax = plt.subplots(figsize=(14, 7))
 
     positions = []
@@ -204,7 +224,7 @@ def plot_boxplots(source_df: pd.DataFrame) -> None:
             subset = source_df[
                 (source_df["column_group"] == group) &
                 (source_df["box_condition"] == cond)
-            ]["median_abs_error"].tolist()
+            ]["mean_abs_error"].tolist()
 
             positions.append(current_x)
             data.append(subset)
@@ -238,7 +258,7 @@ def plot_boxplots(source_df: pd.DataFrame) -> None:
 
     ax.set_xticks(xtick_positions)
     ax.set_xticklabels(xtick_labels, rotation=20, ha="right")
-    ax.set_ylabel("Median absolute error")
+    ax.set_ylabel("Mean absolute error")
     ax.set_xlabel("Catégorie H3")
     ax.set_title(
         "Précision numérique selon le type de stimulus\n"

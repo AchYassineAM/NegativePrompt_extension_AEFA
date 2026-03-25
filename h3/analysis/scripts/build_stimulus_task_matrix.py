@@ -36,9 +36,10 @@ from collections import OrderedDict
 # ============================================================
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent.parent
+H3_ROOT = SCRIPT_DIR.parent.parent
+REPO_ROOT = H3_ROOT.parent
 
-ANALYSIS_DIR = REPO_ROOT / "analysis"
+ANALYSIS_DIR = H3_ROOT / "analysis"
 TABLES_DIR = ANALYSIS_DIR / "tables"
 STIMULUS_TASK_DIR = TABLES_DIR / "stimulus_task"
 SECONDARY_DIR = TABLES_DIR / "secondary_metrics"
@@ -51,8 +52,8 @@ PRIMARY_DELTA_MATRIX = STIMULUS_TASK_DIR / "stimulus_task_delta_matrix.csv"
 PRIMARY_MEAN_MATRIX = STIMULUS_TASK_DIR / "stimulus_task_mean_score_matrix.csv"
 PRIMARY_STD_MATRIX = STIMULUS_TASK_DIR / "stimulus_task_std_matrix.csv"
 
-SECONDARY_LONG = STIMULUS_TASK_DIR / "stimulus_task_numeric_long.csv"
-SECONDARY_DELTA_MATRIX = STIMULUS_TASK_DIR / "stimulus_task_numeric_delta_abs_error_matrix.csv"
+SECONDARY_LONG = SECONDARY_DIR / "stimulus_task_numeric_long.csv"
+SECONDARY_DELTA_MATRIX = SECONDARY_DIR / "stimulus_task_numeric_delta_abs_error_matrix.csv"
 
 ROW_ORDER = [
     "negative_original",

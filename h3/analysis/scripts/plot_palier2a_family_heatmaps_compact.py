@@ -4,17 +4,17 @@ from pathlib import Path
 import numpy as np
 import matplotlib.pyplot as plt
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent.parent
 
-ANALYSIS_DIR = REPO_ROOT / "analysis"
-TABLES_DIR = ANALYSIS_DIR / "tables"
-H3_DIR = TABLES_DIR / "h3"
+SCRIPT_DIR = Path(__file__).resolve().parent
+H3_ROOT = SCRIPT_DIR.parent.parent
+REPO_ROOT = H3_ROOT.parent
+
+ANALYSIS_DIR = H3_ROOT / "analysis"
 
 PLOT_DIR = ANALYSIS_DIR / "plots" / "family_compact"
 PLOT_DIR.mkdir(parents=True, exist_ok=True)
 
-FAMILY_SUMMARY_PATH = H3_DIR / "palier2a_family_summary.csv"
+FAMILY_SUMMARY_PATH = ANALYSIS_DIR / "tables" / "h3" / "palier2a_family_summary.csv"
 
 ROW_ORDER_ALL = [
     "negative_original",

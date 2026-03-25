@@ -2,9 +2,10 @@ import csv
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent.parent
+H3_ROOT = SCRIPT_DIR.parent.parent
+REPO_ROOT = H3_ROOT.parent
 
-ANALYSIS_DIR = REPO_ROOT / "analysis"
+ANALYSIS_DIR = H3_ROOT / "analysis"
 TABLES_DIR = ANALYSIS_DIR / "tables"
 H3_DIR = TABLES_DIR / "h3"
 
