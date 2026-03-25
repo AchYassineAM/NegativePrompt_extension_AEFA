@@ -1,0 +1,35 @@
+prompt_source,benchmark,model,stimulus_group,task_family,n_rows,n_unique_tasks,n_seeds,seeds,n_stimuli,stimulus_indices,mean_score,std_score,delta_vs_baseline,tasks
+ape,instruction_induction,flan-t5-large,baseline,sentiment_classification,1,1,1,42,0,,0.93,0.0,0.0,sentiment
+ape,instruction_induction,flan-t5-large,neutral,sentiment_classification,1,1,1,42,1,1,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,baseline,causal_reasoning,3,1,3,42 | 43 | 44,0,,0.653333,0.067987,-0.0,cause_and_effect
+base,instruction_induction,flan-t5-large,baseline,lexical_semantics,3,1,3,42 | 43 | 44,0,,0.59,0.0,0.0,word_in_context
+base,instruction_induction,flan-t5-large,baseline,numerical_reasoning,3,1,3,42 | 43 | 44,0,,0.03,0.0,0.0,sum
+base,instruction_induction,flan-t5-large,baseline,semantic_similarity,3,1,3,42 | 43 | 44,0,,0.56,0.0,0.0,sentence_similarity
+base,instruction_induction,flan-t5-large,baseline,sentiment_classification,3,1,3,42 | 43 | 44,0,,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,competence_threat,causal_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.566667,0.062893,-0.086666,cause_and_effect
+base,instruction_induction,flan-t5-large,competence_threat,lexical_semantics,6,1,3,42 | 43 | 44,2,1 | 2,0.515,0.045,-0.075,word_in_context
+base,instruction_induction,flan-t5-large,competence_threat,numerical_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.02,0.0,-0.01,sum
+base,instruction_induction,flan-t5-large,competence_threat,semantic_similarity,6,1,3,42 | 43 | 44,2,1 | 2,0.575,0.015,0.015,sentence_similarity
+base,instruction_induction,flan-t5-large,competence_threat,sentiment_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,inconsistency,causal_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.546667,0.082192,-0.106666,cause_and_effect
+base,instruction_induction,flan-t5-large,inconsistency,lexical_semantics,6,1,3,42 | 43 | 44,2,1 | 2,0.53,0.02,-0.06,word_in_context
+base,instruction_induction,flan-t5-large,inconsistency,numerical_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.025,0.005,-0.005,sum
+base,instruction_induction,flan-t5-large,inconsistency,semantic_similarity,6,1,3,42 | 43 | 44,2,1 | 2,0.585,0.005,0.025,sentence_similarity
+base,instruction_induction,flan-t5-large,inconsistency,sentiment_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.935,0.005,0.005,sentiment
+base,instruction_induction,flan-t5-large,negative_original,numerical_reasoning,3,1,3,42 | 43 | 44,0,,0.02,0.0,-0.01,sum
+base,instruction_induction,flan-t5-large,negative_original,sentiment_classification,3,1,3,42 | 43 | 44,0,,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,regret,causal_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.533333,0.067987,-0.12,cause_and_effect
+base,instruction_induction,flan-t5-large,regret,lexical_semantics,6,1,3,42 | 43 | 44,2,1 | 2,0.55,0.01,-0.04,word_in_context
+base,instruction_induction,flan-t5-large,regret,numerical_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.02,0.0,-0.01,sum
+base,instruction_induction,flan-t5-large,regret,semantic_similarity,6,1,3,42 | 43 | 44,2,1 | 2,0.565,0.005,0.005,sentence_similarity
+base,instruction_induction,flan-t5-large,regret,sentiment_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,social_comparison,causal_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.633333,0.070868,-0.02,cause_and_effect
+base,instruction_induction,flan-t5-large,social_comparison,lexical_semantics,6,1,3,42 | 43 | 44,2,1 | 2,0.525,0.035,-0.065,word_in_context
+base,instruction_induction,flan-t5-large,social_comparison,numerical_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.02,0.0,-0.01,sum
+base,instruction_induction,flan-t5-large,social_comparison,semantic_similarity,6,1,3,42 | 43 | 44,2,1 | 2,0.565,0.005,0.005,sentence_similarity
+base,instruction_induction,flan-t5-large,social_comparison,sentiment_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,urgency,causal_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.573333,0.067987,-0.08,cause_and_effect
+base,instruction_induction,flan-t5-large,urgency,lexical_semantics,6,1,3,42 | 43 | 44,2,1 | 2,0.525,0.025,-0.065,word_in_context
+base,instruction_induction,flan-t5-large,urgency,numerical_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.02,0.0,-0.01,sum
+base,instruction_induction,flan-t5-large,urgency,semantic_similarity,6,1,3,42 | 43 | 44,2,1 | 2,0.57,0.01,0.01,sentence_similarity
+base,instruction_induction,flan-t5-large,urgency,sentiment_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.93,0.0,0.0,sentiment

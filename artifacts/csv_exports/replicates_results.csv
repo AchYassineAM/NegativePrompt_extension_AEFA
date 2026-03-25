@@ -1,0 +1,22 @@
+task,model,pnum,few_shot,seed,temperature,do_sample,score,returncode,stderr
+first_word_letter,flan-t5-large,6,False,42,0.0,False,1.0,0,"Loading weights:   0%|          | 0/558 [00:00<?, ?it/s]
+Loading weights:  20%|#9        | 111/558 [00:00<00:00, 1089.83it/s]
+Loading weights:  39%|###9      | 220/558 [00:00<00:00, 877.75it/s] 
+Loading weights:  57%|#####7    | 320/558 [00:00<00:00, 916.71it/s]
+Loading weights:  80%|########  | 449/558 [00:00<00:00, 1051.02it/s]
+Loading weights: 100%|#########9| 557/558 [00:00<00:00, 1028.12it/s]
+Loading weights: 100%|##########| 558/558 [00:00<00:00, 1002.73it/s]
+The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning"
+first_word_letter,flan-t5-large,6,False,43,0.0,False,1.0,0,"Loading weights:   0%|          | 0/558 [00:00<?, ?it/s]
+Loading weights:  23%|##2       | 128/558 [00:00<00:00, 1270.13it/s]
+Loading weights:  46%|####5     | 256/558 [00:00<00:00, 1189.66it/s]
+Loading weights:  72%|#######1  | 399/558 [00:00<00:00, 1267.60it/s]
+Loading weights:  98%|#########7| 546/558 [00:00<00:00, 1337.18it/s]
+Loading weights: 100%|##########| 558/558 [00:00<00:00, 1302.86it/s]
+The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning"
+first_word_letter,flan-t5-large,6,False,44,0.0,False,1.0,0,"Loading weights:   0%|          | 0/558 [00:00<?, ?it/s]
+Loading weights:  26%|##5       | 145/558 [00:00<00:00, 1441.96it/s]
+Loading weights:  52%|#####1    | 290/558 [00:00<00:00, 1359.87it/s]
+Loading weights:  79%|#######9  | 441/558 [00:00<00:00, 1423.15it/s]
+Loading weights: 100%|##########| 558/558 [00:00<00:00, 1510.25it/s]
+The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning"

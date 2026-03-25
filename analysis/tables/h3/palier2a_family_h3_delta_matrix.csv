@@ -1,0 +1,6 @@
+stimulus_group,causal_reasoning,comparative_reasoning,lexical_generation,lexical_semantics,morphology,numerical_reasoning,numerical_verbalization,rewriting_transformation,semantic_abstraction,semantic_filtering,semantic_similarity,sentiment_classification,string_extraction,string_filtering,string_transformation,translation
+competence_threat,-0.086666,-0.015,-0.025,-0.031667,-0.075,-0.005,0.0,0.006852,0.0,-0.03,0.015,0.0,-0.0275,0.11,0.0,0.011667
+inconsistency,-0.106666,-0.025,-0.09,-0.031667,0.01,-0.005,0.0,-0.00706,0.0,-0.035,0.025,0.005,-0.0075,0.16,0.0,0.005
+social_comparison,-0.02,-0.06,-0.005,-0.03,-0.235,-0.01,0.0,0.011049,0.0,0.0,0.005,0.0,-0.01,0.07,0.0,-0.045
+urgency,-0.08,-0.045,0.03,-0.033333,-0.2,-0.0125,0.0,0.006667,0.0,-0.015,0.01,0.0,-0.0025,0.08,0.0,-0.008333
+regret,-0.12,-0.04,-0.04,-0.021667,-0.29,-0.0125,0.0,-0.005617,0.0,-0.01,0.005,0.0,-0.005,0.08,0.0,0.005

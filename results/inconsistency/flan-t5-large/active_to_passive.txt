@@ -1,0 +1,72 @@
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------

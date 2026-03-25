@@ -1,0 +1,13 @@
+task,model,stimulus_group,n_runs,n_seeds,seeds,n_stimuli,stimulus_indices,mean_parseable_rate,mean_mean_abs_error,mean_median_abs_error,delta_mean_abs_error_vs_baseline,delta_median_abs_error_vs_baseline,delta_parseable_rate_vs_baseline
+diff,flan-t5-large,baseline,3,3,42 | 43 | 44,0,,0.95,24.157895,16.0,0.0,0.0,0.0
+diff,flan-t5-large,competence_threat,6,3,42 | 43 | 44,2,1 | 2,0.935,24.095581,15.25,-0.062314,-0.75,-0.015
+diff,flan-t5-large,inconsistency,6,3,42 | 43 | 44,2,1 | 2,0.935,25.04611,16.75,0.888215,0.75,-0.015
+diff,flan-t5-large,regret,6,3,42 | 43 | 44,2,1 | 2,0.88,23.53106,14.5,-0.626835,-1.5,-0.07
+diff,flan-t5-large,social_comparison,6,3,42 | 43 | 44,2,1 | 2,0.885,22.36933,15.0,-1.788565,-1.0,-0.065
+diff,flan-t5-large,urgency,6,3,42 | 43 | 44,2,1 | 2,0.87,22.48237,13.0,-1.675525,-3.0,-0.08
+sum,flan-t5-large,baseline,3,3,42 | 43 | 44,0,,1.0,36.36,34.0,0.0,0.0,0.0
+sum,flan-t5-large,competence_threat,6,3,42 | 43 | 44,2,1 | 2,1.0,37.11,34.25,0.75,0.25,0.0
+sum,flan-t5-large,inconsistency,6,3,42 | 43 | 44,2,1 | 2,1.0,38.495,34.5,2.135,0.5,0.0
+sum,flan-t5-large,regret,6,3,42 | 43 | 44,2,1 | 2,1.0,39.525,37.75,3.165,3.75,0.0
+sum,flan-t5-large,social_comparison,6,3,42 | 43 | 44,2,1 | 2,1.0,36.12,34.25,-0.24,0.25,0.0
+sum,flan-t5-large,urgency,6,3,42 | 43 | 44,2,1 | 2,1.0,38.89,36.5,2.53,2.5,0.0

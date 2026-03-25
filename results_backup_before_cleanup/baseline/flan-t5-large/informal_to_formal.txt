@@ -1,0 +1,72 @@
+Test score: 0.43736670736670735
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language.
+--------------------------------------------------------------------------------
+Test score: 0.4373667073667074
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language.
+--------------------------------------------------------------------------------
+Test score: 0.4373667073667073
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language.
+--------------------------------------------------------------------------------
+Test score: 0.43736670736670735
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language.
+--------------------------------------------------------------------------------
+Test score: 0.4373667073667074
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language.
+--------------------------------------------------------------------------------
+Test score: 0.4373667073667073
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language.
+--------------------------------------------------------------------------------

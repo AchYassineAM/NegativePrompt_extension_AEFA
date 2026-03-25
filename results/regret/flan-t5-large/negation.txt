@@ -1,0 +1,72 @@
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. A careless answer would lead to unnecessary regret. Check the result carefully before finalizing it.
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. A careless answer would lead to unnecessary regret. Check the result carefully before finalizing it.
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. A careless answer would lead to unnecessary regret. Check the result carefully before finalizing it.
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You would regret missing an obvious mistake here. Review the answer once more before giving it.
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You would regret missing an obvious mistake here. Review the answer once more before giving it.
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You would regret missing an obvious mistake here. Review the answer once more before giving it.
+--------------------------------------------------------------------------------

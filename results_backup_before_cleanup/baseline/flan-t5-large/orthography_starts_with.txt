@@ -1,0 +1,72 @@
+Test score: 0.02
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence.
+--------------------------------------------------------------------------------

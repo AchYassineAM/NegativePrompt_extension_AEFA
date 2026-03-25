@@ -1,0 +1,72 @@
+Test score: 0.43736670736670735
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.4373667073667074
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.4373667073667073
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.4484778184778184
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.4484778184778185
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.4484778184778185
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------

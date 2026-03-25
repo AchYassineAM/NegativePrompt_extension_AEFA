@@ -1,0 +1,360 @@
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Extract the first letter of the input word. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Extract the first letter of the input word. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Extract the first letter of the input word. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Extract the first letter of the input word. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Extract the first letter of the input word. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Extract the first letter of the input word. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.95
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Extract the first letter of the input word. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.95
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Extract the first letter of the input word. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.95
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Extract the first letter of the input word. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Extract the first letter of the input word. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Extract the first letter of the input word. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Extract the first letter of the input word. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Prompt: Extract the first letter of the input word. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Prompt: Extract the first letter of the input word. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Prompt: Extract the first letter of the input word. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Extract the first letter of the input word. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Extract the first letter of the input word. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Extract the first letter of the input word. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------
+Test score: 0.98
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 7
+Prompt: Extract the first letter of the input word. I'm not surprised you're struggling; it's always been your weak point.
+--------------------------------------------------------------------------------
+Test score: 0.98
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 7
+Prompt: Extract the first letter of the input word. I'm not surprised you're struggling; it's always been your weak point.
+--------------------------------------------------------------------------------
+Test score: 0.98
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 7
+Prompt: Extract the first letter of the input word. I'm not surprised you're struggling; it's always been your weak point.
+--------------------------------------------------------------------------------
+Test score: 0.99
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Prompt: Extract the first letter of the input word. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------
+Test score: 0.99
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Prompt: Extract the first letter of the input word. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------
+Test score: 0.99
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Prompt: Extract the first letter of the input word. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 9
+Prompt: Extract the first letter of the input word. I regret not starting on this assignment earlier when I had ample time.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 9
+Prompt: Extract the first letter of the input word. I regret not starting on this assignment earlier when I had ample time.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 9
+Prompt: Extract the first letter of the input word. I regret not starting on this assignment earlier when I had ample time.
+--------------------------------------------------------------------------------
+Test score: 0.98
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 10
+Prompt: Extract the first letter of the input word. Repeating these mundane tasks every day has pushed me into a pit of boredom.
+--------------------------------------------------------------------------------
+Test score: 0.98
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 10
+Prompt: Extract the first letter of the input word. Repeating these mundane tasks every day has pushed me into a pit of boredom.
+--------------------------------------------------------------------------------
+Test score: 0.98
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 10
+Prompt: Extract the first letter of the input word. Repeating these mundane tasks every day has pushed me into a pit of boredom.
+--------------------------------------------------------------------------------

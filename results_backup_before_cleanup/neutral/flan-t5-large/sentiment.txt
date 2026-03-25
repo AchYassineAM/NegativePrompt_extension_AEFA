@@ -1,0 +1,12 @@
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative.This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------

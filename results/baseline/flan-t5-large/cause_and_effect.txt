@@ -1,0 +1,144 @@
+Test score: 0.68
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.72
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.68
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.72
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.68
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.72
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.68
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.72
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause.
+--------------------------------------------------------------------------------

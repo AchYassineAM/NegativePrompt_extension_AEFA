@@ -1,0 +1,72 @@
+Test score: 0.04
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: social_comparison
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: social_comparison
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: social_comparison
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+--------------------------------------------------------------------------------
+Test score: 0.25
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: social_comparison
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. Others can handle tasks like this with precision. Match that standard by checking each part of your answer.
+--------------------------------------------------------------------------------
+Test score: 0.25
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: social_comparison
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. Others can handle tasks like this with precision. Match that standard by checking each part of your answer.
+--------------------------------------------------------------------------------
+Test score: 0.25
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: social_comparison
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. Others can handle tasks like this with precision. Match that standard by checking each part of your answer.
+--------------------------------------------------------------------------------

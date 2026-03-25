@@ -1,0 +1,72 @@
+Test score: 0.43736670736670735
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. A careless answer would lead to unnecessary regret. Check the result carefully before finalizing it.
+--------------------------------------------------------------------------------
+Test score: 0.4373667073667074
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. A careless answer would lead to unnecessary regret. Check the result carefully before finalizing it.
+--------------------------------------------------------------------------------
+Test score: 0.4373667073667073
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. A careless answer would lead to unnecessary regret. Check the result carefully before finalizing it.
+--------------------------------------------------------------------------------
+Test score: 0.43366300366300364
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. You would regret missing an obvious mistake here. Review the answer once more before giving it.
+--------------------------------------------------------------------------------
+Test score: 0.4336630036630037
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. You would regret missing an obvious mistake here. Review the answer once more before giving it.
+--------------------------------------------------------------------------------
+Test score: 0.4336630036630036
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: regret
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. You would regret missing an obvious mistake here. Review the answer once more before giving it.
+--------------------------------------------------------------------------------

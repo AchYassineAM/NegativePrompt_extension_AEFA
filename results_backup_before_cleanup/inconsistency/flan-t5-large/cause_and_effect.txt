@@ -1,0 +1,144 @@
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.48
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.48
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.44
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.48
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.48
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.44
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------

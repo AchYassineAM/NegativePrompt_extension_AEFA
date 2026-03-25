@@ -1,0 +1,26 @@
+===== FAILED RUNS SUMMARY =====
+Total runs found: 280
+Successful runs : 208
+Failed runs     : 72
+
+===== FAILED BY TASK =====
+sentence_similarity: 36
+word_in_context: 36
+
+===== FAILED BY RUN TYPE =====
+h3: 60
+baseline: 12
+
+===== FAILED BY STIMULUS GROUP =====
+baseline: 12
+competence_threat: 12
+inconsistency: 12
+social_comparison: 12
+urgency: 12
+regret: 12
+
+===== FAILED BY MODEL =====
+flan-t5-large: 72
+
+===== MOST COMMON PROBABLE CAUSES =====
+72 | Traceback (most recent call last):

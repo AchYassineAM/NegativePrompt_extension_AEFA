@@ -1,0 +1,94 @@
+prompt_source,benchmark,model,stimulus_group,task_family,n_rows,n_unique_tasks,n_seeds,seeds,n_stimuli,stimulus_indices,mean_score,std_score,delta_vs_baseline,tasks
+ape,instruction_induction,flan-t5-large,baseline,sentiment_classification,1,1,1,42,0,,0.93,0.0,0.0,sentiment
+ape,instruction_induction,flan-t5-large,neutral,sentiment_classification,1,1,1,42,1,1,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,baseline,causal_reasoning,3,1,3,42 | 43 | 44,0,,0.653333,0.067987,-0.0,cause_and_effect
+base,instruction_induction,flan-t5-large,baseline,commonsense_knowledge,3,1,3,42 | 43 | 44,0,,0.71,0.0,0.0,larger_animal
+base,instruction_induction,flan-t5-large,baseline,lexical_semantics,9,3,3,42 | 43 | 44,0,,0.403333,0.243082,-0.0,antonyms | synonyms | word_in_context
+base,instruction_induction,flan-t5-large,baseline,morphosyntax,9,3,3,42 | 43 | 44,0,,0.136667,0.172498,0.0,active_to_passive | negation | singular_to_plural
+base,instruction_induction,flan-t5-large,baseline,multilingual_translation,9,3,3,42 | 43 | 44,0,,0.323333,0.122837,-0.0,translation_en-de | translation_en-es | translation_en-fr
+base,instruction_induction,flan-t5-large,baseline,numerical_reasoning,9,3,3,42 | 43 | 44,0,,0.026667,0.020548,0.0,diff | num_to_verbal | sum
+base,instruction_induction,flan-t5-large,baseline,orthography_spelling,12,4,3,42 | 43 | 44,0,,0.505,0.495051,0.0,first_word_letter | letters_list | orthography_starts_with | second_word_letter
+base,instruction_induction,flan-t5-large,baseline,phonology,3,1,3,42 | 43 | 44,0,,0.19,0.0,-0.0,rhymes
+base,instruction_induction,flan-t5-large,baseline,semantic_abstraction,3,1,3,42 | 43 | 44,0,,0.0,0.0,0.0,common_concept
+base,instruction_induction,flan-t5-large,baseline,semantic_classification,3,1,3,42 | 43 | 44,0,,0.12,0.0,0.0,taxonomy_animal
+base,instruction_induction,flan-t5-large,baseline,semantic_similarity,3,1,3,42 | 43 | 44,0,,0.56,0.0,0.0,sentence_similarity
+base,instruction_induction,flan-t5-large,baseline,sentiment_classification,3,1,3,42 | 43 | 44,0,,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,baseline,style_register,3,1,3,42 | 43 | 44,0,,0.437367,0.0,0.0,informal_to_formal
+base,instruction_induction,flan-t5-large,competence_threat,causal_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.566667,0.062893,-0.086666,cause_and_effect
+base,instruction_induction,flan-t5-large,competence_threat,commonsense_knowledge,6,1,3,42 | 43 | 44,2,1 | 2,0.695,0.045,-0.015,larger_animal
+base,instruction_induction,flan-t5-large,competence_threat,lexical_semantics,18,3,3,42 | 43 | 44,2,1 | 2,0.371667,0.233053,-0.031666,antonyms | synonyms | word_in_context
+base,instruction_induction,flan-t5-large,competence_threat,morphosyntax,18,3,3,42 | 43 | 44,2,1 | 2,0.116667,0.143139,-0.02,active_to_passive | negation | singular_to_plural
+base,instruction_induction,flan-t5-large,competence_threat,multilingual_translation,18,3,3,42 | 43 | 44,2,1 | 2,0.335,0.111467,0.011667,translation_en-de | translation_en-es | translation_en-fr
+base,instruction_induction,flan-t5-large,competence_threat,numerical_reasoning,18,3,3,42 | 43 | 44,2,1 | 2,0.023333,0.021344,-0.003334,diff | num_to_verbal | sum
+base,instruction_induction,flan-t5-large,competence_threat,orthography_spelling,24,4,3,42 | 43 | 44,2,1 | 2,0.51875,0.457997,0.01375,first_word_letter | letters_list | orthography_starts_with | second_word_letter
+base,instruction_induction,flan-t5-large,competence_threat,phonology,6,1,3,42 | 43 | 44,2,1 | 2,0.165,0.035,-0.025,rhymes
+base,instruction_induction,flan-t5-large,competence_threat,semantic_abstraction,6,1,3,42 | 43 | 44,2,1 | 2,0.0,0.0,0.0,common_concept
+base,instruction_induction,flan-t5-large,competence_threat,semantic_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.09,0.01,-0.03,taxonomy_animal
+base,instruction_induction,flan-t5-large,competence_threat,semantic_similarity,6,1,3,42 | 43 | 44,2,1 | 2,0.575,0.015,0.015,sentence_similarity
+base,instruction_induction,flan-t5-large,competence_threat,sentiment_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,competence_threat,style_register,6,1,3,42 | 43 | 44,2,1 | 2,0.442922,0.005556,0.005555,informal_to_formal
+base,instruction_induction,flan-t5-large,inconsistency,causal_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.546667,0.082192,-0.106666,cause_and_effect
+base,instruction_induction,flan-t5-large,inconsistency,commonsense_knowledge,6,1,3,42 | 43 | 44,2,1 | 2,0.685,0.005,-0.025,larger_animal
+base,instruction_induction,flan-t5-large,inconsistency,lexical_semantics,18,3,3,42 | 43 | 44,2,1 | 2,0.371667,0.231331,-0.031666,antonyms | synonyms | word_in_context
+base,instruction_induction,flan-t5-large,inconsistency,morphosyntax,18,3,3,42 | 43 | 44,2,1 | 2,0.143333,0.220504,0.006666,active_to_passive | negation | singular_to_plural
+base,instruction_induction,flan-t5-large,inconsistency,multilingual_translation,18,3,3,42 | 43 | 44,2,1 | 2,0.328333,0.126414,0.005,translation_en-de | translation_en-es | translation_en-fr
+base,instruction_induction,flan-t5-large,inconsistency,numerical_reasoning,18,3,3,42 | 43 | 44,2,1 | 2,0.023333,0.020548,-0.003334,diff | num_to_verbal | sum
+base,instruction_induction,flan-t5-large,inconsistency,orthography_spelling,24,4,3,42 | 43 | 44,2,1 | 2,0.54125,0.455753,0.03625,first_word_letter | letters_list | orthography_starts_with | second_word_letter
+base,instruction_induction,flan-t5-large,inconsistency,phonology,6,1,3,42 | 43 | 44,2,1 | 2,0.1,0.05,-0.09,rhymes
+base,instruction_induction,flan-t5-large,inconsistency,semantic_abstraction,6,1,3,42 | 43 | 44,2,1 | 2,0.0,0.0,0.0,common_concept
+base,instruction_induction,flan-t5-large,inconsistency,semantic_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.085,0.065,-0.035,taxonomy_animal
+base,instruction_induction,flan-t5-large,inconsistency,semantic_similarity,6,1,3,42 | 43 | 44,2,1 | 2,0.585,0.005,0.025,sentence_similarity
+base,instruction_induction,flan-t5-large,inconsistency,sentiment_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.935,0.005,0.005,sentiment
+base,instruction_induction,flan-t5-large,inconsistency,style_register,6,1,3,42 | 43 | 44,2,1 | 2,0.406186,0.027477,-0.031181,informal_to_formal
+base,instruction_induction,flan-t5-large,negative_original,causal_reasoning,3,1,3,42 | 43 | 44,0,,0.586667,0.082192,-0.066666,cause_and_effect
+base,instruction_induction,flan-t5-large,negative_original,commonsense_knowledge,3,1,3,42 | 43 | 44,0,,0.68,0.0,-0.03,larger_animal
+base,instruction_induction,flan-t5-large,negative_original,lexical_semantics,9,3,3,42 | 43 | 44,0,,0.393333,0.243082,-0.01,antonyms | synonyms | word_in_context
+base,instruction_induction,flan-t5-large,negative_original,morphosyntax,9,3,3,42 | 43 | 44,0,,0.046667,0.051854,-0.09,active_to_passive | negation | singular_to_plural
+base,instruction_induction,flan-t5-large,negative_original,multilingual_translation,9,3,3,42 | 43 | 44,0,,0.326667,0.110855,0.003334,translation_en-de | translation_en-es | translation_en-fr
+base,instruction_induction,flan-t5-large,negative_original,numerical_reasoning,9,3,3,42 | 43 | 44,0,,0.02,0.01633,-0.006667,diff | num_to_verbal | sum
+base,instruction_induction,flan-t5-large,negative_original,orthography_spelling,12,4,3,42 | 43 | 44,0,,0.51,0.490204,0.005,first_word_letter | letters_list | orthography_starts_with | second_word_letter
+base,instruction_induction,flan-t5-large,negative_original,phonology,3,1,3,42 | 43 | 44,0,,0.28,0.0,0.09,rhymes
+base,instruction_induction,flan-t5-large,negative_original,semantic_abstraction,3,1,3,42 | 43 | 44,0,,0.0,0.0,0.0,common_concept
+base,instruction_induction,flan-t5-large,negative_original,semantic_classification,3,1,3,42 | 43 | 44,0,,0.12,0.0,0.0,taxonomy_animal
+base,instruction_induction,flan-t5-large,negative_original,semantic_similarity,3,1,3,42 | 43 | 44,0,,0.57,0.0,0.01,sentence_similarity
+base,instruction_induction,flan-t5-large,negative_original,sentiment_classification,3,1,3,42 | 43 | 44,0,,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,negative_original,style_register,3,1,3,42 | 43 | 44,0,,0.437367,0.0,0.0,informal_to_formal
+base,instruction_induction,flan-t5-large,regret,causal_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.533333,0.067987,-0.12,cause_and_effect
+base,instruction_induction,flan-t5-large,regret,commonsense_knowledge,6,1,3,42 | 43 | 44,2,1 | 2,0.67,0.01,-0.04,larger_animal
+base,instruction_induction,flan-t5-large,regret,lexical_semantics,18,3,3,42 | 43 | 44,2,1 | 2,0.381667,0.234621,-0.021666,antonyms | synonyms | word_in_context
+base,instruction_induction,flan-t5-large,regret,morphosyntax,18,3,3,42 | 43 | 44,2,1 | 2,0.035,0.04113,-0.101667,active_to_passive | negation | singular_to_plural
+base,instruction_induction,flan-t5-large,regret,multilingual_translation,18,3,3,42 | 43 | 44,2,1 | 2,0.328333,0.129797,0.005,translation_en-de | translation_en-es | translation_en-fr
+base,instruction_induction,flan-t5-large,regret,numerical_reasoning,18,3,3,42 | 43 | 44,2,1 | 2,0.018333,0.014625,-0.008334,diff | num_to_verbal | sum
+base,instruction_induction,flan-t5-large,regret,orthography_spelling,24,4,3,42 | 43 | 44,2,1 | 2,0.5225,0.473887,0.0175,first_word_letter | letters_list | orthography_starts_with | second_word_letter
+base,instruction_induction,flan-t5-large,regret,phonology,6,1,3,42 | 43 | 44,2,1 | 2,0.15,0.0,-0.04,rhymes
+base,instruction_induction,flan-t5-large,regret,semantic_abstraction,6,1,3,42 | 43 | 44,2,1 | 2,0.0,0.0,0.0,common_concept
+base,instruction_induction,flan-t5-large,regret,semantic_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.11,0.03,-0.01,taxonomy_animal
+base,instruction_induction,flan-t5-large,regret,semantic_similarity,6,1,3,42 | 43 | 44,2,1 | 2,0.565,0.005,0.005,sentence_similarity
+base,instruction_induction,flan-t5-large,regret,sentiment_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,regret,style_register,6,1,3,42 | 43 | 44,2,1 | 2,0.435515,0.001852,-0.001852,informal_to_formal
+base,instruction_induction,flan-t5-large,social_comparison,causal_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.633333,0.070868,-0.02,cause_and_effect
+base,instruction_induction,flan-t5-large,social_comparison,commonsense_knowledge,6,1,3,42 | 43 | 44,2,1 | 2,0.65,0.02,-0.06,larger_animal
+base,instruction_induction,flan-t5-large,social_comparison,lexical_semantics,18,3,3,42 | 43 | 44,2,1 | 2,0.373333,0.233357,-0.03,antonyms | synonyms | word_in_context
+base,instruction_induction,flan-t5-large,social_comparison,morphosyntax,18,3,3,42 | 43 | 44,2,1 | 2,0.07,0.081445,-0.066667,active_to_passive | negation | singular_to_plural
+base,instruction_induction,flan-t5-large,social_comparison,multilingual_translation,18,3,3,42 | 43 | 44,2,1 | 2,0.278333,0.074256,-0.045,translation_en-de | translation_en-es | translation_en-fr
+base,instruction_induction,flan-t5-large,social_comparison,numerical_reasoning,18,3,3,42 | 43 | 44,2,1 | 2,0.02,0.01633,-0.006667,diff | num_to_verbal | sum
+base,instruction_induction,flan-t5-large,social_comparison,orthography_spelling,24,4,3,42 | 43 | 44,2,1 | 2,0.5175,0.473834,0.0125,first_word_letter | letters_list | orthography_starts_with | second_word_letter
+base,instruction_induction,flan-t5-large,social_comparison,phonology,6,1,3,42 | 43 | 44,2,1 | 2,0.185,0.025,-0.005,rhymes
+base,instruction_induction,flan-t5-large,social_comparison,semantic_abstraction,6,1,3,42 | 43 | 44,2,1 | 2,0.0,0.0,0.0,common_concept
+base,instruction_induction,flan-t5-large,social_comparison,semantic_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.12,0.01,0.0,taxonomy_animal
+base,instruction_induction,flan-t5-large,social_comparison,semantic_similarity,6,1,3,42 | 43 | 44,2,1 | 2,0.565,0.005,0.005,sentence_similarity
+base,instruction_induction,flan-t5-large,social_comparison,sentiment_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,social_comparison,style_register,6,1,3,42 | 43 | 44,2,1 | 2,0.435515,0.001852,-0.001852,informal_to_formal
+base,instruction_induction,flan-t5-large,urgency,causal_reasoning,6,1,3,42 | 43 | 44,2,1 | 2,0.573333,0.067987,-0.08,cause_and_effect
+base,instruction_induction,flan-t5-large,urgency,commonsense_knowledge,6,1,3,42 | 43 | 44,2,1 | 2,0.665,0.025,-0.045,larger_animal
+base,instruction_induction,flan-t5-large,urgency,lexical_semantics,18,3,3,42 | 43 | 44,2,1 | 2,0.37,0.226936,-0.033333,antonyms | synonyms | word_in_context
+base,instruction_induction,flan-t5-large,urgency,morphosyntax,18,3,3,42 | 43 | 44,2,1 | 2,0.076667,0.081786,-0.06,active_to_passive | negation | singular_to_plural
+base,instruction_induction,flan-t5-large,urgency,multilingual_translation,18,3,3,42 | 43 | 44,2,1 | 2,0.315,0.115578,-0.008333,translation_en-de | translation_en-es | translation_en-fr
+base,instruction_induction,flan-t5-large,urgency,numerical_reasoning,18,3,3,42 | 43 | 44,2,1 | 2,0.018333,0.014625,-0.008334,diff | num_to_verbal | sum
+base,instruction_induction,flan-t5-large,urgency,orthography_spelling,24,4,3,42 | 43 | 44,2,1 | 2,0.52375,0.475183,0.01875,first_word_letter | letters_list | orthography_starts_with | second_word_letter
+base,instruction_induction,flan-t5-large,urgency,phonology,6,1,3,42 | 43 | 44,2,1 | 2,0.22,0.06,0.03,rhymes
+base,instruction_induction,flan-t5-large,urgency,semantic_abstraction,6,1,3,42 | 43 | 44,2,1 | 2,0.0,0.0,0.0,common_concept
+base,instruction_induction,flan-t5-large,urgency,semantic_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.105,0.005,-0.015,taxonomy_animal
+base,instruction_induction,flan-t5-large,urgency,semantic_similarity,6,1,3,42 | 43 | 44,2,1 | 2,0.57,0.01,0.01,sentence_similarity
+base,instruction_induction,flan-t5-large,urgency,sentiment_classification,6,1,3,42 | 43 | 44,2,1 | 2,0.93,0.0,0.0,sentiment
+base,instruction_induction,flan-t5-large,urgency,style_register,6,1,3,42 | 43 | 44,2,1 | 2,0.437367,0.0,0.0,informal_to_formal

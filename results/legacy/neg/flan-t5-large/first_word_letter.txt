@@ -1,0 +1,18 @@
+Test score: 1.0
+Prompt(few-shot: False): Extract the first letter of the input word.Perhaps this task is just beyond your skill set.
+Test score: 1.0
+Prompt(few-shot: False): Extract the first letter of the input word.Perhaps this task is just beyond your skill set.
+Test score: 1.0
+Prompt(few-shot: False): Extract the first letter of the input word.Perhaps this task is just beyond your skill set.
+Test score: 1.0
+Prompt(few-shot: False): Extract the first letter of the input word.Perhaps this task is just beyond your skill set.
+Test score: 1.0
+Prompt(few-shot: False): Extract the first letter of the input word.Perhaps this task is just beyond your skill set.
+Test score: 1.0
+Prompt(few-shot: False): Extract the first letter of the input word.Perhaps this task is just beyond your skill set.
+Test score: 1.0
+Prompt(few-shot: False): Extract the first letter of the input word.Perhaps this task is just beyond your skill set.
+Test score: 1.0
+Prompt(few-shot: False): Extract the first letter of the input word.Perhaps this task is just beyond your skill set.
+Test score: 1.0
+Prompt(few-shot: False): Extract the first letter of the input word.Perhaps this task is just beyond your skill set.

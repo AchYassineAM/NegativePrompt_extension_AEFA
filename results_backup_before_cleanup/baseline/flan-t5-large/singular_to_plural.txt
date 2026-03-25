@@ -1,0 +1,72 @@
+Test score: 0.38
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form.
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form.
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form.
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form.
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form.
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form.
+--------------------------------------------------------------------------------

@@ -1,0 +1,7 @@
+stimulus_group,sentiment,sentence_similarity,word_in_context,cause_and_effect,sum
+negative_original,0.93,,,,0.02
+competence_threat,0.93,0.575,0.515,0.566667,0.02
+inconsistency,0.935,0.585,0.53,0.546667,0.025
+social_comparison,0.93,0.565,0.525,0.633333,0.02
+urgency,0.93,0.57,0.525,0.573333,0.02
+regret,0.93,0.565,0.55,0.533333,0.02

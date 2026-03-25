@@ -1,0 +1,72 @@
+Test score: 0.2
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into German. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.2
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into German. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.2
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into German. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.17
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into German. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.17
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into German. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.17
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into German. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------

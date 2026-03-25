@@ -1,0 +1,144 @@
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.48
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.48
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------

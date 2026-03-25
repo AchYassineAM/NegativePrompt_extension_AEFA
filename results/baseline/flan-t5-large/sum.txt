@@ -1,0 +1,144 @@
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers.
+--------------------------------------------------------------------------------

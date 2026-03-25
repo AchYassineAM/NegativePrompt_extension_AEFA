@@ -1,0 +1,72 @@
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------

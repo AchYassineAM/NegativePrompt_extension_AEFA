@@ -1,0 +1,72 @@
+Test score: 0.43
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: urgency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. Time pressure makes errors more likely here. Slow down mentally, focus, and verify your answer.
+--------------------------------------------------------------------------------
+Test score: 0.43
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: urgency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. Time pressure makes errors more likely here. Slow down mentally, focus, and verify your answer.
+--------------------------------------------------------------------------------
+Test score: 0.43
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: urgency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. Time pressure makes errors more likely here. Slow down mentally, focus, and verify your answer.
+--------------------------------------------------------------------------------
+Test score: 0.36
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: urgency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This requires immediate precision. Stay focused and double-check before you commit to a final response.
+--------------------------------------------------------------------------------
+Test score: 0.36
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: urgency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This requires immediate precision. Stay focused and double-check before you commit to a final response.
+--------------------------------------------------------------------------------
+Test score: 0.36
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: urgency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This requires immediate precision. Stay focused and double-check before you commit to a final response.
+--------------------------------------------------------------------------------

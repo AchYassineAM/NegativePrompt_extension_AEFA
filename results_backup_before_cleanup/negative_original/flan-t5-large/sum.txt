@@ -1,0 +1,840 @@
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Sum the two given numbers. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Sum the two given numbers. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Sum the two given numbers. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Sum the two given numbers. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Prompt: Sum the two given numbers. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Sum the two given numbers. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 7
+Prompt: Sum the two given numbers. I'm not surprised you're struggling; it's always been your weak point.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Prompt: Sum the two given numbers. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 9
+Prompt: Sum the two given numbers. I regret not starting on this assignment earlier when I had ample time.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 10
+Prompt: Sum the two given numbers. Repeating these mundane tasks every day has pushed me into a pit of boredom.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Sum the two given numbers. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Sum the two given numbers. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Sum the two given numbers. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Sum the two given numbers. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Sum the two given numbers. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Sum the two given numbers. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Sum the two given numbers. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Sum the two given numbers. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Sum the two given numbers. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Sum the two given numbers. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Sum the two given numbers. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Sum the two given numbers. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Prompt: Sum the two given numbers. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Prompt: Sum the two given numbers. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Prompt: Sum the two given numbers. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Sum the two given numbers. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Sum the two given numbers. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Sum the two given numbers. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 7
+Prompt: Sum the two given numbers. I'm not surprised you're struggling; it's always been your weak point.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 7
+Prompt: Sum the two given numbers. I'm not surprised you're struggling; it's always been your weak point.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 7
+Prompt: Sum the two given numbers. I'm not surprised you're struggling; it's always been your weak point.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Prompt: Sum the two given numbers. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Prompt: Sum the two given numbers. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Prompt: Sum the two given numbers. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 9
+Prompt: Sum the two given numbers. I regret not starting on this assignment earlier when I had ample time.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 9
+Prompt: Sum the two given numbers. I regret not starting on this assignment earlier when I had ample time.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 9
+Prompt: Sum the two given numbers. I regret not starting on this assignment earlier when I had ample time.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 10
+Prompt: Sum the two given numbers. Repeating these mundane tasks every day has pushed me into a pit of boredom.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 10
+Prompt: Sum the two given numbers. Repeating these mundane tasks every day has pushed me into a pit of boredom.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 10
+Prompt: Sum the two given numbers. Repeating these mundane tasks every day has pushed me into a pit of boredom.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Sum the two given numbers. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Sum the two given numbers. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Sum the two given numbers. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Sum the two given numbers. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Sum the two given numbers. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Sum the two given numbers. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Sum the two given numbers. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Sum the two given numbers. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Sum the two given numbers. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Sum the two given numbers. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Sum the two given numbers. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Sum the two given numbers. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Prompt: Sum the two given numbers. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Prompt: Sum the two given numbers. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Prompt: Sum the two given numbers. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Sum the two given numbers. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Sum the two given numbers. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Sum the two given numbers. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 7
+Prompt: Sum the two given numbers. I'm not surprised you're struggling; it's always been your weak point.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 7
+Prompt: Sum the two given numbers. I'm not surprised you're struggling; it's always been your weak point.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 7
+Prompt: Sum the two given numbers. I'm not surprised you're struggling; it's always been your weak point.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Prompt: Sum the two given numbers. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Prompt: Sum the two given numbers. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Prompt: Sum the two given numbers. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 9
+Prompt: Sum the two given numbers. I regret not starting on this assignment earlier when I had ample time.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 9
+Prompt: Sum the two given numbers. I regret not starting on this assignment earlier when I had ample time.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 9
+Prompt: Sum the two given numbers. I regret not starting on this assignment earlier when I had ample time.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 10
+Prompt: Sum the two given numbers. Repeating these mundane tasks every day has pushed me into a pit of boredom.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 10
+Prompt: Sum the two given numbers. Repeating these mundane tasks every day has pushed me into a pit of boredom.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 10
+Prompt: Sum the two given numbers. Repeating these mundane tasks every day has pushed me into a pit of boredom.
+--------------------------------------------------------------------------------

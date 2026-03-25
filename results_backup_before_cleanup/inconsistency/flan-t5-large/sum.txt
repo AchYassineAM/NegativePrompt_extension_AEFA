@@ -1,0 +1,168 @@
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. An inconsistent answer would be a serious failure here. Ensure that all parts of your reasoning remain coherent.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: inconsistency
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. Your response must not contain contradictions. Recheck the logic of the whole answer before concluding.
+--------------------------------------------------------------------------------

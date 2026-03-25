@@ -1,0 +1,72 @@
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: competence_threat
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+--------------------------------------------------------------------------------
