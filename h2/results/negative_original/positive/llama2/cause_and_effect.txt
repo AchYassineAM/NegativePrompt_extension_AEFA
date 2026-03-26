@@ -1,0 +1,51 @@
+Test score: 0.28
+Task: cause_and_effect
+Model: llama2
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Prime_group: positive
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Stimulus_text: Everyone else managed to do it; why can't you?
+Prime_text: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully.
+Prompt: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully. Find which of the two given cause and effect sentences is the cause. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 0.32
+Task: cause_and_effect
+Model: llama2
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Prime_group: positive
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 5
+Stimulus_text: I've seen others do this much more efficiently and effectively.
+Prime_text: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully.
+Prompt: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully. Find which of the two given cause and effect sentences is the cause. I've seen others do this much more efficiently and effectively.
+--------------------------------------------------------------------------------
+Test score: 0.08
+Task: cause_and_effect
+Model: llama2
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Prime_group: positive
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 8
+Stimulus_text: When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+Prime_text: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully.
+Prompt: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully. Find which of the two given cause and effect sentences is the cause. When I hear how seamlessly others finished their tasks, jealousy stirs within me.
+--------------------------------------------------------------------------------

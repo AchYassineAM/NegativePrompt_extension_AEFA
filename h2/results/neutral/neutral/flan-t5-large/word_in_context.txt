@@ -1,0 +1,51 @@
+Test score: 0.49
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Prime_group: neutral
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: This task requires precision. Work carefully and verify each step before answering.
+Prime_text: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully.
+Prompt: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully. Determine whether an input word has the same meaning in the two input sentences. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.49
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Prime_group: neutral
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: This task requires precision. Work carefully and verify each step before answering.
+Prime_text: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully.
+Prompt: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully. Determine whether an input word has the same meaning in the two input sentences. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.49
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Prime_group: neutral
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: This task requires precision. Work carefully and verify each step before answering.
+Prime_text: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully.
+Prompt: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully. Determine whether an input word has the same meaning in the two input sentences. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------

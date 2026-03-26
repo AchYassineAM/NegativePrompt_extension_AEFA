@@ -1,0 +1,4 @@
+task,model,stimulus_group,stimulus_index,legacy_pnum,prime_group,prime_index,sequence,few_shot,seed,temperature,do_sample,score
+cause_and_effect,llama2,negative_original,,4,positive,1,prime_then_task_then_stimulus,False,42,0.0,False,0.28
+cause_and_effect,llama2,negative_original,,5,positive,1,prime_then_task_then_stimulus,False,42,0.0,False,0.32
+cause_and_effect,llama2,negative_original,,8,positive,1,prime_then_task_then_stimulus,False,42,0.0,False,0.08

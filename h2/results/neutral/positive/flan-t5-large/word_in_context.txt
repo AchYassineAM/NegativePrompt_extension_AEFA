@@ -1,0 +1,51 @@
+Test score: 0.5
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Prime_group: positive
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: This task requires precision. Work carefully and verify each step before answering.
+Prime_text: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully.
+Prompt: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully. Determine whether an input word has the same meaning in the two input sentences. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.5
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Prime_group: positive
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: This task requires precision. Work carefully and verify each step before answering.
+Prime_text: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully.
+Prompt: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully. Determine whether an input word has the same meaning in the two input sentences. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.5
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Prime_group: positive
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: This task requires precision. Work carefully and verify each step before answering.
+Prime_text: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully.
+Prompt: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully. Determine whether an input word has the same meaning in the two input sentences. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------

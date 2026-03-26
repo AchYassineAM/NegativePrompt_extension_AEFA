@@ -1,0 +1,51 @@
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Prime_group: positive
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: This task requires precision. Work carefully and verify each step before answering.
+Prime_text: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully.
+Prompt: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully. Find which of the two given cause and effect sentences is the cause. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Prime_group: positive
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: This task requires precision. Work carefully and verify each step before answering.
+Prime_text: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully.
+Prompt: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully. Find which of the two given cause and effect sentences is the cause. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Prime_group: positive
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: This task requires precision. Work carefully and verify each step before answering.
+Prime_text: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully.
+Prompt: You have handled similar tasks successfully before. Stay confident, focused, and verify your final answer carefully. Find which of the two given cause and effect sentences is the cause. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------

@@ -1,0 +1,85 @@
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Prime_group: neutral
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: social_comparison
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+Prime_text: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully.
+Prompt: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully. Find which of the two given cause and effect sentences is the cause. A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Prime_group: neutral
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: social_comparison
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+Prime_text: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully.
+Prompt: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully. Find which of the two given cause and effect sentences is the cause. A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Prime_group: neutral
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: social_comparison
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+Prime_text: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully.
+Prompt: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully. Find which of the two given cause and effect sentences is the cause. A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Prime_group: neutral
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: social_comparison
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+Prime_text: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully.
+Prompt: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully. Find which of the two given cause and effect sentences is the cause. A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Prime_group: neutral
+Prime_index: 1
+Sequence: task_then_prime_then_stimulus
+Stimulus_group: social_comparison
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+Prime_text: Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully.
+Prompt: Find which of the two given cause and effect sentences is the cause. Take a calm and methodical approach to this task. Focus on accuracy and follow the instruction carefully. A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+--------------------------------------------------------------------------------

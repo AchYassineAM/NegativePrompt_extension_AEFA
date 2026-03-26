@@ -234,13 +234,13 @@ def main():
 
 
 # ============================================================
-# POINT Dâ€™ENTRÃ‰E
+# POINT D'entrée'
 # ============================================================
 #
 # Lancement :
 #   python .\scripts\run_baseline_batch.py
 #
-# ConseillÃ© :
+# 
 # faire dâ€™abord un smoke test avec :
 #   MODELS = ["flan-t5-large"]
 #   TASKS = ["sentiment"]

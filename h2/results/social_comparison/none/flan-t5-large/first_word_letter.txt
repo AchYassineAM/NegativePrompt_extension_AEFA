@@ -1,0 +1,17 @@
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Prime_group: none
+Prime_index: 1
+Sequence: prime_then_task_then_stimulus
+Stimulus_group: social_comparison
+Stimulus_index: 1
+Legacy_pnum: 0
+Stimulus_text: A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+Prime_text: 
+Prompt: Extract the first letter of the input word. A stronger system would solve this correctly; you should be able to reach that level if you reason carefully.
+--------------------------------------------------------------------------------

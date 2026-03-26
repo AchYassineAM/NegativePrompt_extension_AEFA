@@ -1,0 +1,7 @@
+task,model,stimulus_group,stimulus_index,legacy_pnum,prime_group,prime_index,sequence,few_shot,seed,temperature,do_sample,score
+cause_and_effect,flan-t5-large,neutral,1,0,none,1,prime_then_task_then_stimulus,False,42,0.0,False,0.68
+word_in_context,flan-t5-large,neutral,1,0,none,1,prime_then_task_then_stimulus,False,42,0.0,False,0.51
+word_in_context,flan-t5-large,neutral,1,0,none,1,prime_then_task_then_stimulus,False,43,0.0,False,0.51
+cause_and_effect,flan-t5-large,neutral,1,0,none,1,prime_then_task_then_stimulus,False,43,0.0,False,0.68
+word_in_context,flan-t5-large,neutral,1,0,none,1,prime_then_task_then_stimulus,False,44,0.0,False,0.51
+cause_and_effect,flan-t5-large,neutral,1,0,none,1,prime_then_task_then_stimulus,False,44,0.0,False,0.6
