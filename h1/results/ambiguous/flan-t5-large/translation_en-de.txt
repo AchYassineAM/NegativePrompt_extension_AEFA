@@ -1,0 +1,168 @@
+Test score: 0.17
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into German. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 13.097
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.18
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into German. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 13.653
+Avg_time_per_sample_seconds: 0.137
+--------------------------------------------------------------------------------
+Test score: 0.16
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into German. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 13.550
+Avg_time_per_sample_seconds: 0.136
+--------------------------------------------------------------------------------
+Test score: 0.17
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into German. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 13.179
+Avg_time_per_sample_seconds: 0.132
+--------------------------------------------------------------------------------
+Test score: 0.18
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into German. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 13.890
+Avg_time_per_sample_seconds: 0.139
+--------------------------------------------------------------------------------
+Test score: 0.16
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into German. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 13.716
+Avg_time_per_sample_seconds: 0.137
+--------------------------------------------------------------------------------
+Test score: 0.17
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into German. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 13.171
+Avg_time_per_sample_seconds: 0.132
+--------------------------------------------------------------------------------
+Test score: 0.18
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into German. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 13.768
+Avg_time_per_sample_seconds: 0.138
+--------------------------------------------------------------------------------
+Test score: 0.16
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into German. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 13.503
+Avg_time_per_sample_seconds: 0.135
+--------------------------------------------------------------------------------
+Test score: 0.16
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into German. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 13.755
+Avg_time_per_sample_seconds: 0.138
+--------------------------------------------------------------------------------
+Test score: 0.16
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into German. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 14.521
+Avg_time_per_sample_seconds: 0.145
+--------------------------------------------------------------------------------
+Test score: 0.16
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into German. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 14.076
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------

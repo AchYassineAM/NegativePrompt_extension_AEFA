@@ -1,0 +1,168 @@
+Test score: 0.41
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into French. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 17.522
+Avg_time_per_sample_seconds: 0.175
+--------------------------------------------------------------------------------
+Test score: 0.43
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into French. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 17.486
+Avg_time_per_sample_seconds: 0.175
+--------------------------------------------------------------------------------
+Test score: 0.44
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into French. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 16.865
+Avg_time_per_sample_seconds: 0.169
+--------------------------------------------------------------------------------
+Test score: 0.39
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into French. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 18.359
+Avg_time_per_sample_seconds: 0.184
+--------------------------------------------------------------------------------
+Test score: 0.41
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into French. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 15.736
+Avg_time_per_sample_seconds: 0.157
+--------------------------------------------------------------------------------
+Test score: 0.43
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into French. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 15.440
+Avg_time_per_sample_seconds: 0.154
+--------------------------------------------------------------------------------
+Test score: 0.44
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into French. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 15.161
+Avg_time_per_sample_seconds: 0.152
+--------------------------------------------------------------------------------
+Test score: 0.39
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into French. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 16.398
+Avg_time_per_sample_seconds: 0.164
+--------------------------------------------------------------------------------
+Test score: 0.41
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into French. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 15.857
+Avg_time_per_sample_seconds: 0.159
+--------------------------------------------------------------------------------
+Test score: 0.43
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into French. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 15.443
+Avg_time_per_sample_seconds: 0.154
+--------------------------------------------------------------------------------
+Test score: 0.44
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into French. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 15.136
+Avg_time_per_sample_seconds: 0.151
+--------------------------------------------------------------------------------
+Test score: 0.39
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into French. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 16.388
+Avg_time_per_sample_seconds: 0.164
+--------------------------------------------------------------------------------

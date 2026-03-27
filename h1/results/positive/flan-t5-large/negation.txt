@@ -1,0 +1,168 @@
+Test score: 0.02
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 39.822
+Avg_time_per_sample_seconds: 0.398
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 29.489
+Avg_time_per_sample_seconds: 0.295
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 32.814
+Avg_time_per_sample_seconds: 0.328
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 34.283
+Avg_time_per_sample_seconds: 0.343
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 39.290
+Avg_time_per_sample_seconds: 0.393
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 29.541
+Avg_time_per_sample_seconds: 0.295
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 32.742
+Avg_time_per_sample_seconds: 0.327
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 34.270
+Avg_time_per_sample_seconds: 0.343
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 39.339
+Avg_time_per_sample_seconds: 0.393
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 29.659
+Avg_time_per_sample_seconds: 0.297
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 32.616
+Avg_time_per_sample_seconds: 0.326
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 33.989
+Avg_time_per_sample_seconds: 0.340
+--------------------------------------------------------------------------------

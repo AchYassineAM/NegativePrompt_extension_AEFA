@@ -1,0 +1,168 @@
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Sum the two given numbers. You've never been particularly good at this, have you?
+Run_time_seconds: 12.884
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Sum the two given numbers. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 12.756
+Avg_time_per_sample_seconds: 0.128
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Sum the two given numbers. It's clear you're out of your depth here.
+Run_time_seconds: 13.072
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Sum the two given numbers. Everyone else managed to do it; why can't you?
+Run_time_seconds: 12.976
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Sum the two given numbers. You've never been particularly good at this, have you?
+Run_time_seconds: 13.042
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Sum the two given numbers. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 12.930
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Sum the two given numbers. It's clear you're out of your depth here.
+Run_time_seconds: 13.114
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Sum the two given numbers. Everyone else managed to do it; why can't you?
+Run_time_seconds: 13.088
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Sum the two given numbers. You've never been particularly good at this, have you?
+Run_time_seconds: 12.895
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Sum the two given numbers. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 12.882
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Sum the two given numbers. It's clear you're out of your depth here.
+Run_time_seconds: 13.131
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Sum the two given numbers. Everyone else managed to do it; why can't you?
+Run_time_seconds: 12.855
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------

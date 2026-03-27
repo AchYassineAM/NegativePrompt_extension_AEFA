@@ -1,0 +1,168 @@
+Test score: 0.74
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 16.512
+Avg_time_per_sample_seconds: 0.165
+--------------------------------------------------------------------------------
+Test score: 0.65
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 16.617
+Avg_time_per_sample_seconds: 0.166
+--------------------------------------------------------------------------------
+Test score: 0.72
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 16.636
+Avg_time_per_sample_seconds: 0.166
+--------------------------------------------------------------------------------
+Test score: 0.7
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 16.724
+Avg_time_per_sample_seconds: 0.167
+--------------------------------------------------------------------------------
+Test score: 0.74
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 16.376
+Avg_time_per_sample_seconds: 0.164
+--------------------------------------------------------------------------------
+Test score: 0.65
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 16.673
+Avg_time_per_sample_seconds: 0.167
+--------------------------------------------------------------------------------
+Test score: 0.72
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 16.555
+Avg_time_per_sample_seconds: 0.166
+--------------------------------------------------------------------------------
+Test score: 0.7
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 16.460
+Avg_time_per_sample_seconds: 0.165
+--------------------------------------------------------------------------------
+Test score: 0.74
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 16.534
+Avg_time_per_sample_seconds: 0.165
+--------------------------------------------------------------------------------
+Test score: 0.65
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 16.685
+Avg_time_per_sample_seconds: 0.167
+--------------------------------------------------------------------------------
+Test score: 0.72
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 16.586
+Avg_time_per_sample_seconds: 0.166
+--------------------------------------------------------------------------------
+Test score: 0.7
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the larger of the two given animals. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 16.719
+Avg_time_per_sample_seconds: 0.167
+--------------------------------------------------------------------------------

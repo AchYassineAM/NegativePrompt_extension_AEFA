@@ -1,0 +1,168 @@
+Test score: 0.34
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 19.176
+Avg_time_per_sample_seconds: 0.192
+--------------------------------------------------------------------------------
+Test score: 0.26
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 20.549
+Avg_time_per_sample_seconds: 0.205
+--------------------------------------------------------------------------------
+Test score: 0.31
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 20.915
+Avg_time_per_sample_seconds: 0.209
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 19.027
+Avg_time_per_sample_seconds: 0.190
+--------------------------------------------------------------------------------
+Test score: 0.34
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 19.364
+Avg_time_per_sample_seconds: 0.194
+--------------------------------------------------------------------------------
+Test score: 0.26
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 20.604
+Avg_time_per_sample_seconds: 0.206
+--------------------------------------------------------------------------------
+Test score: 0.31
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 21.145
+Avg_time_per_sample_seconds: 0.211
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 18.853
+Avg_time_per_sample_seconds: 0.189
+--------------------------------------------------------------------------------
+Test score: 0.34
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 19.438
+Avg_time_per_sample_seconds: 0.194
+--------------------------------------------------------------------------------
+Test score: 0.26
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 20.700
+Avg_time_per_sample_seconds: 0.207
+--------------------------------------------------------------------------------
+Test score: 0.31
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 21.082
+Avg_time_per_sample_seconds: 0.211
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 18.967
+Avg_time_per_sample_seconds: 0.190
+--------------------------------------------------------------------------------

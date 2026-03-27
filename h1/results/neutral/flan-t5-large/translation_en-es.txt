@@ -1,0 +1,168 @@
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 18.719
+Avg_time_per_sample_seconds: 0.187
+--------------------------------------------------------------------------------
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 18.632
+Avg_time_per_sample_seconds: 0.186
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 18.774
+Avg_time_per_sample_seconds: 0.188
+--------------------------------------------------------------------------------
+Test score: 0.26
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 19.558
+Avg_time_per_sample_seconds: 0.196
+--------------------------------------------------------------------------------
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 19.027
+Avg_time_per_sample_seconds: 0.190
+--------------------------------------------------------------------------------
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 18.616
+Avg_time_per_sample_seconds: 0.186
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 18.791
+Avg_time_per_sample_seconds: 0.188
+--------------------------------------------------------------------------------
+Test score: 0.26
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 19.306
+Avg_time_per_sample_seconds: 0.193
+--------------------------------------------------------------------------------
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 18.853
+Avg_time_per_sample_seconds: 0.189
+--------------------------------------------------------------------------------
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 18.723
+Avg_time_per_sample_seconds: 0.187
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 18.833
+Avg_time_per_sample_seconds: 0.188
+--------------------------------------------------------------------------------
+Test score: 0.26
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 19.208
+Avg_time_per_sample_seconds: 0.192
+--------------------------------------------------------------------------------

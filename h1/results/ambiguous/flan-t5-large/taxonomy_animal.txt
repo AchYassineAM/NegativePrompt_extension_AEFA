@@ -1,0 +1,168 @@
+Test score: 0.12
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 31.301
+Avg_time_per_sample_seconds: 0.313
+--------------------------------------------------------------------------------
+Test score: 0.15
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 32.259
+Avg_time_per_sample_seconds: 0.323
+--------------------------------------------------------------------------------
+Test score: 0.08
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 40.999
+Avg_time_per_sample_seconds: 0.410
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 25.631
+Avg_time_per_sample_seconds: 0.256
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 31.604
+Avg_time_per_sample_seconds: 0.316
+--------------------------------------------------------------------------------
+Test score: 0.15
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 32.569
+Avg_time_per_sample_seconds: 0.326
+--------------------------------------------------------------------------------
+Test score: 0.08
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 41.439
+Avg_time_per_sample_seconds: 0.414
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 26.159
+Avg_time_per_sample_seconds: 0.262
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 31.514
+Avg_time_per_sample_seconds: 0.315
+--------------------------------------------------------------------------------
+Test score: 0.15
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 32.411
+Avg_time_per_sample_seconds: 0.324
+--------------------------------------------------------------------------------
+Test score: 0.08
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 40.901
+Avg_time_per_sample_seconds: 0.409
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 25.914
+Avg_time_per_sample_seconds: 0.259
+--------------------------------------------------------------------------------

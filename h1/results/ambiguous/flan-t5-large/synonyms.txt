@@ -1,0 +1,168 @@
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 12.123
+Avg_time_per_sample_seconds: 0.121
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.991
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.06
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.857
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 12.247
+Avg_time_per_sample_seconds: 0.122
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 11.997
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 12.113
+Avg_time_per_sample_seconds: 0.121
+--------------------------------------------------------------------------------
+Test score: 0.06
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.858
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 12.167
+Avg_time_per_sample_seconds: 0.122
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 12.378
+Avg_time_per_sample_seconds: 0.124
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.997
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.06
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 12.003
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write a word with a similar meaning to the input word. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 11.992
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------

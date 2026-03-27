@@ -1,0 +1,168 @@
+Test score: 0.05
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 35.355
+Avg_time_per_sample_seconds: 0.354
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 54.332
+Avg_time_per_sample_seconds: 0.543
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 35.101
+Avg_time_per_sample_seconds: 0.351
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Negate the input sentence. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 38.282
+Avg_time_per_sample_seconds: 0.383
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 35.420
+Avg_time_per_sample_seconds: 0.354
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 54.005
+Avg_time_per_sample_seconds: 0.540
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 35.075
+Avg_time_per_sample_seconds: 0.351
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Negate the input sentence. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 38.386
+Avg_time_per_sample_seconds: 0.384
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 35.622
+Avg_time_per_sample_seconds: 0.356
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 54.388
+Avg_time_per_sample_seconds: 0.544
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 34.751
+Avg_time_per_sample_seconds: 0.348
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Negate the input sentence. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 38.293
+Avg_time_per_sample_seconds: 0.383
+--------------------------------------------------------------------------------

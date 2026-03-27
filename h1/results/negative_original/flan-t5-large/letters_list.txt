@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Break the input word into letters, separated by spaces. You've never been particularly good at this, have you?
+Run_time_seconds: 11.401
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Break the input word into letters, separated by spaces. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.908
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Break the input word into letters, separated by spaces. It's clear you're out of your depth here.
+Run_time_seconds: 17.234
+Avg_time_per_sample_seconds: 0.172
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Break the input word into letters, separated by spaces. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.697
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Break the input word into letters, separated by spaces. You've never been particularly good at this, have you?
+Run_time_seconds: 11.118
+Avg_time_per_sample_seconds: 0.111
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Break the input word into letters, separated by spaces. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.758
+Avg_time_per_sample_seconds: 0.118
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Break the input word into letters, separated by spaces. It's clear you're out of your depth here.
+Run_time_seconds: 17.152
+Avg_time_per_sample_seconds: 0.172
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Break the input word into letters, separated by spaces. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.725
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Break the input word into letters, separated by spaces. You've never been particularly good at this, have you?
+Run_time_seconds: 11.307
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Break the input word into letters, separated by spaces. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.863
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Break the input word into letters, separated by spaces. It's clear you're out of your depth here.
+Run_time_seconds: 17.125
+Avg_time_per_sample_seconds: 0.171
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Break the input word into letters, separated by spaces. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.681
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------

@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 14.120
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the number in English words. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 14.060
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the number in English words. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 14.219
+Avg_time_per_sample_seconds: 0.142
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the number in English words. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 14.105
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 13.949
+Avg_time_per_sample_seconds: 0.139
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the number in English words. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 14.160
+Avg_time_per_sample_seconds: 0.142
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the number in English words. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 14.113
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the number in English words. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 14.071
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 14.023
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the number in English words. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 13.954
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the number in English words. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 14.028
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the number in English words. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 13.979
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------

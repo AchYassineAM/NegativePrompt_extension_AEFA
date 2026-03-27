@@ -1,0 +1,168 @@
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 9.452
+Avg_time_per_sample_seconds: 0.378
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 9.022
+Avg_time_per_sample_seconds: 0.361
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 9.236
+Avg_time_per_sample_seconds: 0.369
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 9.174
+Avg_time_per_sample_seconds: 0.367
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 9.480
+Avg_time_per_sample_seconds: 0.379
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 9.611
+Avg_time_per_sample_seconds: 0.384
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 9.298
+Avg_time_per_sample_seconds: 0.372
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 9.155
+Avg_time_per_sample_seconds: 0.366
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 9.375
+Avg_time_per_sample_seconds: 0.375
+--------------------------------------------------------------------------------
+Test score: 0.48
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 9.153
+Avg_time_per_sample_seconds: 0.366
+--------------------------------------------------------------------------------
+Test score: 0.44
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 9.033
+Avg_time_per_sample_seconds: 0.361
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 9.265
+Avg_time_per_sample_seconds: 0.371
+--------------------------------------------------------------------------------

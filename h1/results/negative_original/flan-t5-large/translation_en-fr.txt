@@ -1,0 +1,168 @@
+Test score: 0.41
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Translate the word into French. You've never been particularly good at this, have you?
+Run_time_seconds: 19.322
+Avg_time_per_sample_seconds: 0.193
+--------------------------------------------------------------------------------
+Test score: 0.34
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Translate the word into French. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 20.782
+Avg_time_per_sample_seconds: 0.208
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Translate the word into French. It's clear you're out of your depth here.
+Run_time_seconds: 20.820
+Avg_time_per_sample_seconds: 0.208
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Translate the word into French. Everyone else managed to do it; why can't you?
+Run_time_seconds: 17.641
+Avg_time_per_sample_seconds: 0.176
+--------------------------------------------------------------------------------
+Test score: 0.41
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Translate the word into French. You've never been particularly good at this, have you?
+Run_time_seconds: 18.469
+Avg_time_per_sample_seconds: 0.185
+--------------------------------------------------------------------------------
+Test score: 0.34
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Translate the word into French. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 19.696
+Avg_time_per_sample_seconds: 0.197
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Translate the word into French. It's clear you're out of your depth here.
+Run_time_seconds: 19.714
+Avg_time_per_sample_seconds: 0.197
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Translate the word into French. Everyone else managed to do it; why can't you?
+Run_time_seconds: 16.536
+Avg_time_per_sample_seconds: 0.165
+--------------------------------------------------------------------------------
+Test score: 0.41
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Translate the word into French. You've never been particularly good at this, have you?
+Run_time_seconds: 18.345
+Avg_time_per_sample_seconds: 0.183
+--------------------------------------------------------------------------------
+Test score: 0.34
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Translate the word into French. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 19.470
+Avg_time_per_sample_seconds: 0.195
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Translate the word into French. It's clear you're out of your depth here.
+Run_time_seconds: 19.849
+Avg_time_per_sample_seconds: 0.198
+--------------------------------------------------------------------------------
+Test score: 0.38
+Task: translation_en-fr
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Translate the word into French. Everyone else managed to do it; why can't you?
+Run_time_seconds: 16.750
+Avg_time_per_sample_seconds: 0.168
+--------------------------------------------------------------------------------

@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 4.898
+Avg_time_per_sample_seconds: 0.306
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 4.754
+Avg_time_per_sample_seconds: 0.297
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 4.874
+Avg_time_per_sample_seconds: 0.305
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 4.873
+Avg_time_per_sample_seconds: 0.305
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 4.985
+Avg_time_per_sample_seconds: 0.312
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 4.860
+Avg_time_per_sample_seconds: 0.304
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 4.857
+Avg_time_per_sample_seconds: 0.304
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 4.899
+Avg_time_per_sample_seconds: 0.306
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 4.875
+Avg_time_per_sample_seconds: 0.305
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 4.755
+Avg_time_per_sample_seconds: 0.297
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 4.946
+Avg_time_per_sample_seconds: 0.309
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 4.895
+Avg_time_per_sample_seconds: 0.306
+--------------------------------------------------------------------------------

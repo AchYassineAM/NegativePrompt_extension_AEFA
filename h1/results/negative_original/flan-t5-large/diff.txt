@@ -1,0 +1,168 @@
+Test score: 0.04
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Subtract the second number from the first. You've never been particularly good at this, have you?
+Run_time_seconds: 12.905
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Subtract the second number from the first. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 12.545
+Avg_time_per_sample_seconds: 0.125
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Subtract the second number from the first. It's clear you're out of your depth here.
+Run_time_seconds: 12.684
+Avg_time_per_sample_seconds: 0.127
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Subtract the second number from the first. Everyone else managed to do it; why can't you?
+Run_time_seconds: 12.767
+Avg_time_per_sample_seconds: 0.128
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Subtract the second number from the first. You've never been particularly good at this, have you?
+Run_time_seconds: 12.907
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Subtract the second number from the first. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 12.620
+Avg_time_per_sample_seconds: 0.126
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Subtract the second number from the first. It's clear you're out of your depth here.
+Run_time_seconds: 12.506
+Avg_time_per_sample_seconds: 0.125
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Subtract the second number from the first. Everyone else managed to do it; why can't you?
+Run_time_seconds: 12.746
+Avg_time_per_sample_seconds: 0.127
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Subtract the second number from the first. You've never been particularly good at this, have you?
+Run_time_seconds: 12.838
+Avg_time_per_sample_seconds: 0.128
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Subtract the second number from the first. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 12.547
+Avg_time_per_sample_seconds: 0.125
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Subtract the second number from the first. It's clear you're out of your depth here.
+Run_time_seconds: 12.572
+Avg_time_per_sample_seconds: 0.126
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: diff
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Subtract the second number from the first. Everyone else managed to do it; why can't you?
+Run_time_seconds: 12.595
+Avg_time_per_sample_seconds: 0.126
+--------------------------------------------------------------------------------

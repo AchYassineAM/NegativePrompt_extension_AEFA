@@ -1,0 +1,168 @@
+Test score: 0.57
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 13.092
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.57
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 13.263
+Avg_time_per_sample_seconds: 0.133
+--------------------------------------------------------------------------------
+Test score: 0.58
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 13.545
+Avg_time_per_sample_seconds: 0.135
+--------------------------------------------------------------------------------
+Test score: 0.55
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 13.019
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.57
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 13.204
+Avg_time_per_sample_seconds: 0.132
+--------------------------------------------------------------------------------
+Test score: 0.57
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 13.239
+Avg_time_per_sample_seconds: 0.132
+--------------------------------------------------------------------------------
+Test score: 0.58
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 13.369
+Avg_time_per_sample_seconds: 0.134
+--------------------------------------------------------------------------------
+Test score: 0.55
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 12.966
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.57
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 13.175
+Avg_time_per_sample_seconds: 0.132
+--------------------------------------------------------------------------------
+Test score: 0.57
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 13.147
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.58
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 13.324
+Avg_time_per_sample_seconds: 0.133
+--------------------------------------------------------------------------------
+Test score: 0.55
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write a word that means the opposite of the input word. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 12.857
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------

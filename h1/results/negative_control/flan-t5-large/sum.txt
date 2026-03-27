@@ -1,0 +1,168 @@
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 12.971
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 13.036
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 12.943
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 12.860
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 12.995
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 13.067
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 13.218
+Avg_time_per_sample_seconds: 0.132
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 12.947
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 12.900
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 13.134
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 13.049
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 12.903
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------

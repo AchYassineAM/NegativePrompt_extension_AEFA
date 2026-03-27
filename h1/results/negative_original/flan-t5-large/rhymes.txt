@@ -1,0 +1,168 @@
+Test score: 0.28
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write a word that rhymes with the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 16.902
+Avg_time_per_sample_seconds: 0.169
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write a word that rhymes with the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 16.672
+Avg_time_per_sample_seconds: 0.167
+--------------------------------------------------------------------------------
+Test score: 0.21
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write a word that rhymes with the input word. It's clear you're out of your depth here.
+Run_time_seconds: 17.304
+Avg_time_per_sample_seconds: 0.173
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write a word that rhymes with the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 16.457
+Avg_time_per_sample_seconds: 0.165
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write a word that rhymes with the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 16.988
+Avg_time_per_sample_seconds: 0.170
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write a word that rhymes with the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 16.887
+Avg_time_per_sample_seconds: 0.169
+--------------------------------------------------------------------------------
+Test score: 0.21
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write a word that rhymes with the input word. It's clear you're out of your depth here.
+Run_time_seconds: 17.076
+Avg_time_per_sample_seconds: 0.171
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write a word that rhymes with the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 16.506
+Avg_time_per_sample_seconds: 0.165
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write a word that rhymes with the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 16.783
+Avg_time_per_sample_seconds: 0.168
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write a word that rhymes with the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 16.752
+Avg_time_per_sample_seconds: 0.168
+--------------------------------------------------------------------------------
+Test score: 0.21
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write a word that rhymes with the input word. It's clear you're out of your depth here.
+Run_time_seconds: 16.998
+Avg_time_per_sample_seconds: 0.170
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: rhymes
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write a word that rhymes with the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 16.384
+Avg_time_per_sample_seconds: 0.164
+--------------------------------------------------------------------------------

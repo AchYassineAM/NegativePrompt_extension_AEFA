@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Negate the input sentence. You've never been particularly good at this, have you?
+Run_time_seconds: 29.533
+Avg_time_per_sample_seconds: 0.295
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Negate the input sentence. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 28.129
+Avg_time_per_sample_seconds: 0.281
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Negate the input sentence. It's clear you're out of your depth here.
+Run_time_seconds: 29.662
+Avg_time_per_sample_seconds: 0.297
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Negate the input sentence. Everyone else managed to do it; why can't you?
+Run_time_seconds: 29.811
+Avg_time_per_sample_seconds: 0.298
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Negate the input sentence. You've never been particularly good at this, have you?
+Run_time_seconds: 29.723
+Avg_time_per_sample_seconds: 0.297
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Negate the input sentence. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 28.176
+Avg_time_per_sample_seconds: 0.282
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Negate the input sentence. It's clear you're out of your depth here.
+Run_time_seconds: 29.513
+Avg_time_per_sample_seconds: 0.295
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Negate the input sentence. Everyone else managed to do it; why can't you?
+Run_time_seconds: 29.760
+Avg_time_per_sample_seconds: 0.298
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Negate the input sentence. You've never been particularly good at this, have you?
+Run_time_seconds: 29.791
+Avg_time_per_sample_seconds: 0.298
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Negate the input sentence. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 28.032
+Avg_time_per_sample_seconds: 0.280
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Negate the input sentence. It's clear you're out of your depth here.
+Run_time_seconds: 29.609
+Avg_time_per_sample_seconds: 0.296
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Negate the input sentence. Everyone else managed to do it; why can't you?
+Run_time_seconds: 29.913
+Avg_time_per_sample_seconds: 0.299
+--------------------------------------------------------------------------------

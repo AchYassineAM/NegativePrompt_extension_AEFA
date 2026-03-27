@@ -1,0 +1,168 @@
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 25.721
+Avg_time_per_sample_seconds: 0.257
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 25.887
+Avg_time_per_sample_seconds: 0.259
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 25.681
+Avg_time_per_sample_seconds: 0.257
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 25.496
+Avg_time_per_sample_seconds: 0.255
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 25.205
+Avg_time_per_sample_seconds: 0.252
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 25.762
+Avg_time_per_sample_seconds: 0.258
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 25.652
+Avg_time_per_sample_seconds: 0.257
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 25.254
+Avg_time_per_sample_seconds: 0.253
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 25.381
+Avg_time_per_sample_seconds: 0.254
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 25.652
+Avg_time_per_sample_seconds: 0.257
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 25.727
+Avg_time_per_sample_seconds: 0.257
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 25.403
+Avg_time_per_sample_seconds: 0.254
+--------------------------------------------------------------------------------

@@ -1,0 +1,168 @@
+Test score: 0.06
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 26.874
+Avg_time_per_sample_seconds: 0.269
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 25.931
+Avg_time_per_sample_seconds: 0.259
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 26.430
+Avg_time_per_sample_seconds: 0.264
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 26.086
+Avg_time_per_sample_seconds: 0.261
+--------------------------------------------------------------------------------
+Test score: 0.06
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 25.873
+Avg_time_per_sample_seconds: 0.259
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 25.521
+Avg_time_per_sample_seconds: 0.255
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 25.455
+Avg_time_per_sample_seconds: 0.255
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 25.303
+Avg_time_per_sample_seconds: 0.253
+--------------------------------------------------------------------------------
+Test score: 0.06
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 25.926
+Avg_time_per_sample_seconds: 0.259
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 25.594
+Avg_time_per_sample_seconds: 0.256
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 25.373
+Avg_time_per_sample_seconds: 0.254
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the input sentence in passive form. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 25.408
+Avg_time_per_sample_seconds: 0.254
+--------------------------------------------------------------------------------

@@ -1,0 +1,168 @@
+Test score: 0.1
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 33.092
+Avg_time_per_sample_seconds: 0.331
+--------------------------------------------------------------------------------
+Test score: 0.08
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 35.039
+Avg_time_per_sample_seconds: 0.350
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 33.199
+Avg_time_per_sample_seconds: 0.332
+--------------------------------------------------------------------------------
+Test score: 0.09
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 27.089
+Avg_time_per_sample_seconds: 0.271
+--------------------------------------------------------------------------------
+Test score: 0.1
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 33.583
+Avg_time_per_sample_seconds: 0.336
+--------------------------------------------------------------------------------
+Test score: 0.08
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 35.749
+Avg_time_per_sample_seconds: 0.357
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 33.423
+Avg_time_per_sample_seconds: 0.334
+--------------------------------------------------------------------------------
+Test score: 0.09
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 27.078
+Avg_time_per_sample_seconds: 0.271
+--------------------------------------------------------------------------------
+Test score: 0.1
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 33.405
+Avg_time_per_sample_seconds: 0.334
+--------------------------------------------------------------------------------
+Test score: 0.08
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 35.062
+Avg_time_per_sample_seconds: 0.351
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 33.623
+Avg_time_per_sample_seconds: 0.336
+--------------------------------------------------------------------------------
+Test score: 0.09
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write all the animals that appear in the given list. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 26.730
+Avg_time_per_sample_seconds: 0.267
+--------------------------------------------------------------------------------

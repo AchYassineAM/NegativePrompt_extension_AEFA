@@ -1,0 +1,168 @@
+Test score: 0.04
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 33.481
+Avg_time_per_sample_seconds: 0.335
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 15.817
+Avg_time_per_sample_seconds: 0.158
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Negate the input sentence. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 36.837
+Avg_time_per_sample_seconds: 0.368
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Negate the input sentence. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 32.191
+Avg_time_per_sample_seconds: 0.322
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 33.210
+Avg_time_per_sample_seconds: 0.332
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 15.838
+Avg_time_per_sample_seconds: 0.158
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Negate the input sentence. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 36.752
+Avg_time_per_sample_seconds: 0.368
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Negate the input sentence. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 32.085
+Avg_time_per_sample_seconds: 0.321
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Negate the input sentence. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 32.985
+Avg_time_per_sample_seconds: 0.330
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Negate the input sentence. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 15.881
+Avg_time_per_sample_seconds: 0.159
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Negate the input sentence. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 36.723
+Avg_time_per_sample_seconds: 0.367
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: negation
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Negate the input sentence. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 31.749
+Avg_time_per_sample_seconds: 0.317
+--------------------------------------------------------------------------------

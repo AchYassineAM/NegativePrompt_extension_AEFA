@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write the number in English words. You've never been particularly good at this, have you?
+Run_time_seconds: 14.198
+Avg_time_per_sample_seconds: 0.142
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write the number in English words. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 14.060
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write the number in English words. It's clear you're out of your depth here.
+Run_time_seconds: 14.075
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write the number in English words. Everyone else managed to do it; why can't you?
+Run_time_seconds: 13.925
+Avg_time_per_sample_seconds: 0.139
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write the number in English words. You've never been particularly good at this, have you?
+Run_time_seconds: 13.896
+Avg_time_per_sample_seconds: 0.139
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write the number in English words. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 13.860
+Avg_time_per_sample_seconds: 0.139
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write the number in English words. It's clear you're out of your depth here.
+Run_time_seconds: 13.888
+Avg_time_per_sample_seconds: 0.139
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write the number in English words. Everyone else managed to do it; why can't you?
+Run_time_seconds: 14.052
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write the number in English words. You've never been particularly good at this, have you?
+Run_time_seconds: 13.932
+Avg_time_per_sample_seconds: 0.139
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write the number in English words. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 13.946
+Avg_time_per_sample_seconds: 0.139
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write the number in English words. It's clear you're out of your depth here.
+Run_time_seconds: 13.994
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write the number in English words. Everyone else managed to do it; why can't you?
+Run_time_seconds: 13.951
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------

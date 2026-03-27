@@ -1,0 +1,168 @@
+Test score: 0.12
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 23.967
+Avg_time_per_sample_seconds: 0.240
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 25.017
+Avg_time_per_sample_seconds: 0.250
+--------------------------------------------------------------------------------
+Test score: 0.15
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 21.134
+Avg_time_per_sample_seconds: 0.211
+--------------------------------------------------------------------------------
+Test score: 0.09
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 23.238
+Avg_time_per_sample_seconds: 0.232
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 23.486
+Avg_time_per_sample_seconds: 0.235
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 25.067
+Avg_time_per_sample_seconds: 0.251
+--------------------------------------------------------------------------------
+Test score: 0.15
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 20.992
+Avg_time_per_sample_seconds: 0.210
+--------------------------------------------------------------------------------
+Test score: 0.09
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 23.427
+Avg_time_per_sample_seconds: 0.234
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 23.834
+Avg_time_per_sample_seconds: 0.238
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 25.127
+Avg_time_per_sample_seconds: 0.251
+--------------------------------------------------------------------------------
+Test score: 0.15
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 21.188
+Avg_time_per_sample_seconds: 0.212
+--------------------------------------------------------------------------------
+Test score: 0.09
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Extract the words starting with a given letter from the input sentence. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 23.270
+Avg_time_per_sample_seconds: 0.233
+--------------------------------------------------------------------------------

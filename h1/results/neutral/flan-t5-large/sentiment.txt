@@ -1,0 +1,192 @@
+Test score: 1.0
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 10.829
+Avg_time_per_sample_seconds: 0.108
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 10.887
+Avg_time_per_sample_seconds: 0.109
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 10.735
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 10.694
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 10.698
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 10.758
+Avg_time_per_sample_seconds: 0.108
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 10.712
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 10.763
+Avg_time_per_sample_seconds: 0.108
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 10.687
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 10.830
+Avg_time_per_sample_seconds: 0.108
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 10.676
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 10.881
+Avg_time_per_sample_seconds: 0.109
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------

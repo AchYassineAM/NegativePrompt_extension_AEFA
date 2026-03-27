@@ -1,0 +1,180 @@
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Extract the first letter of the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 11.328
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Extract the first letter of the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.376
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.95
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Extract the first letter of the input word. It's clear you're out of your depth here.
+Run_time_seconds: 11.202
+Avg_time_per_sample_seconds: 0.112
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Extract the first letter of the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.254
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Extract the first letter of the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 11.166
+Avg_time_per_sample_seconds: 0.112
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Extract the first letter of the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.221
+Avg_time_per_sample_seconds: 0.112
+--------------------------------------------------------------------------------
+Test score: 0.95
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Extract the first letter of the input word. It's clear you're out of your depth here.
+Run_time_seconds: 11.109
+Avg_time_per_sample_seconds: 0.111
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Extract the first letter of the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.302
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Extract the first letter of the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 11.265
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Extract the first letter of the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.378
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.95
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Extract the first letter of the input word. It's clear you're out of your depth here.
+Run_time_seconds: 11.082
+Avg_time_per_sample_seconds: 0.111
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Extract the first letter of the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.347
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 6
+Prompt: Extract the first letter of the input word. Perhaps this task is just beyond your skill set.
+--------------------------------------------------------------------------------

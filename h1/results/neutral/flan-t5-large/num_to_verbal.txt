@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 14.045
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 15.182
+Avg_time_per_sample_seconds: 0.152
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 14.035
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the number in English words. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 13.969
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 13.889
+Avg_time_per_sample_seconds: 0.139
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 15.016
+Avg_time_per_sample_seconds: 0.150
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 14.066
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the number in English words. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 14.029
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 14.076
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 15.068
+Avg_time_per_sample_seconds: 0.151
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Write the number in English words. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 14.132
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: num_to_verbal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Write the number in English words. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 14.127
+Avg_time_per_sample_seconds: 0.141
+--------------------------------------------------------------------------------

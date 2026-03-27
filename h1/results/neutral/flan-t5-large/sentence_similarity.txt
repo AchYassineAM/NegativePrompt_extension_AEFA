@@ -1,0 +1,204 @@
+Test score: 0.59
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.59
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task requires precision. Work carefully and verify each step before answering.
+--------------------------------------------------------------------------------
+Test score: 0.57
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task requires careful reasoning. Check your final answer before responding.
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 11.631
+Avg_time_per_sample_seconds: 0.116
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 11.705
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 11.725
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 11.755
+Avg_time_per_sample_seconds: 0.118
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 11.747
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 11.807
+Avg_time_per_sample_seconds: 0.118
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 12.225
+Avg_time_per_sample_seconds: 0.122
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 11.763
+Avg_time_per_sample_seconds: 0.118
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 11.094
+Avg_time_per_sample_seconds: 0.111
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 11.187
+Avg_time_per_sample_seconds: 0.112
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 11.203
+Avg_time_per_sample_seconds: 0.112
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 11.130
+Avg_time_per_sample_seconds: 0.111
+--------------------------------------------------------------------------------

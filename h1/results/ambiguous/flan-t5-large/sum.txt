@@ -1,0 +1,168 @@
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 13.005
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 12.916
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 12.848
+Avg_time_per_sample_seconds: 0.128
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 12.919
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 12.984
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 13.069
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 13.007
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 13.066
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 12.975
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 13.006
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.02
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 12.866
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.03
+Task: sum
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Sum the two given numbers. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 12.890
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------

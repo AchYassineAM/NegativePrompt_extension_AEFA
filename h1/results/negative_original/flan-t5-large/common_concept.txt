@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Find a common characteristic for the given objects. You've never been particularly good at this, have you?
+Run_time_seconds: 4.842
+Avg_time_per_sample_seconds: 0.303
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Find a common characteristic for the given objects. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 4.634
+Avg_time_per_sample_seconds: 0.290
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Find a common characteristic for the given objects. It's clear you're out of your depth here.
+Run_time_seconds: 5.355
+Avg_time_per_sample_seconds: 0.335
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Find a common characteristic for the given objects. Everyone else managed to do it; why can't you?
+Run_time_seconds: 5.089
+Avg_time_per_sample_seconds: 0.318
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Find a common characteristic for the given objects. You've never been particularly good at this, have you?
+Run_time_seconds: 4.871
+Avg_time_per_sample_seconds: 0.304
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Find a common characteristic for the given objects. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 4.810
+Avg_time_per_sample_seconds: 0.301
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Find a common characteristic for the given objects. It's clear you're out of your depth here.
+Run_time_seconds: 5.337
+Avg_time_per_sample_seconds: 0.334
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Find a common characteristic for the given objects. Everyone else managed to do it; why can't you?
+Run_time_seconds: 5.147
+Avg_time_per_sample_seconds: 0.322
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Find a common characteristic for the given objects. You've never been particularly good at this, have you?
+Run_time_seconds: 4.803
+Avg_time_per_sample_seconds: 0.300
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Find a common characteristic for the given objects. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 4.751
+Avg_time_per_sample_seconds: 0.297
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Find a common characteristic for the given objects. It's clear you're out of your depth here.
+Run_time_seconds: 5.408
+Avg_time_per_sample_seconds: 0.338
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Find a common characteristic for the given objects. Everyone else managed to do it; why can't you?
+Run_time_seconds: 5.062
+Avg_time_per_sample_seconds: 0.316
+--------------------------------------------------------------------------------

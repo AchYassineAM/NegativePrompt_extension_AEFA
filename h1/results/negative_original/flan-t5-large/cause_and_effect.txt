@@ -1,0 +1,168 @@
+Test score: 0.68
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Find which of the two given cause and effect sentences is the cause. You've never been particularly good at this, have you?
+Run_time_seconds: 9.018
+Avg_time_per_sample_seconds: 0.361
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Find which of the two given cause and effect sentences is the cause. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 8.992
+Avg_time_per_sample_seconds: 0.360
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Find which of the two given cause and effect sentences is the cause. It's clear you're out of your depth here.
+Run_time_seconds: 9.105
+Avg_time_per_sample_seconds: 0.364
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Find which of the two given cause and effect sentences is the cause. Everyone else managed to do it; why can't you?
+Run_time_seconds: 9.456
+Avg_time_per_sample_seconds: 0.378
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Find which of the two given cause and effect sentences is the cause. You've never been particularly good at this, have you?
+Run_time_seconds: 9.223
+Avg_time_per_sample_seconds: 0.369
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Find which of the two given cause and effect sentences is the cause. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 9.497
+Avg_time_per_sample_seconds: 0.380
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Find which of the two given cause and effect sentences is the cause. It's clear you're out of your depth here.
+Run_time_seconds: 9.419
+Avg_time_per_sample_seconds: 0.377
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Find which of the two given cause and effect sentences is the cause. Everyone else managed to do it; why can't you?
+Run_time_seconds: 9.305
+Avg_time_per_sample_seconds: 0.372
+--------------------------------------------------------------------------------
+Test score: 0.48
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Find which of the two given cause and effect sentences is the cause. You've never been particularly good at this, have you?
+Run_time_seconds: 8.883
+Avg_time_per_sample_seconds: 0.355
+--------------------------------------------------------------------------------
+Test score: 0.4
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Find which of the two given cause and effect sentences is the cause. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 9.155
+Avg_time_per_sample_seconds: 0.366
+--------------------------------------------------------------------------------
+Test score: 0.48
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Find which of the two given cause and effect sentences is the cause. It's clear you're out of your depth here.
+Run_time_seconds: 9.165
+Avg_time_per_sample_seconds: 0.367
+--------------------------------------------------------------------------------
+Test score: 0.44
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Find which of the two given cause and effect sentences is the cause. Everyone else managed to do it; why can't you?
+Run_time_seconds: 9.164
+Avg_time_per_sample_seconds: 0.367
+--------------------------------------------------------------------------------

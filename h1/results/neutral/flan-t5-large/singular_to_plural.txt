@@ -1,0 +1,168 @@
+Test score: 0.36
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 12.182
+Avg_time_per_sample_seconds: 0.122
+--------------------------------------------------------------------------------
+Test score: 0.36
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 12.111
+Avg_time_per_sample_seconds: 0.121
+--------------------------------------------------------------------------------
+Test score: 0.42
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 12.258
+Avg_time_per_sample_seconds: 0.123
+--------------------------------------------------------------------------------
+Test score: 0.24
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 11.978
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.36
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 12.182
+Avg_time_per_sample_seconds: 0.122
+--------------------------------------------------------------------------------
+Test score: 0.36
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 12.110
+Avg_time_per_sample_seconds: 0.121
+--------------------------------------------------------------------------------
+Test score: 0.42
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 12.247
+Avg_time_per_sample_seconds: 0.122
+--------------------------------------------------------------------------------
+Test score: 0.24
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 12.046
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.36
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 12.144
+Avg_time_per_sample_seconds: 0.121
+--------------------------------------------------------------------------------
+Test score: 0.36
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 12.020
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.42
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 12.236
+Avg_time_per_sample_seconds: 0.122
+--------------------------------------------------------------------------------
+Test score: 0.24
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 11.960
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------

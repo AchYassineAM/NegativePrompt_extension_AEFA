@@ -1,0 +1,168 @@
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write the input sentence in passive form. You've never been particularly good at this, have you?
+Run_time_seconds: 26.561
+Avg_time_per_sample_seconds: 0.266
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write the input sentence in passive form. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 26.182
+Avg_time_per_sample_seconds: 0.262
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write the input sentence in passive form. It's clear you're out of your depth here.
+Run_time_seconds: 26.577
+Avg_time_per_sample_seconds: 0.266
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write the input sentence in passive form. Everyone else managed to do it; why can't you?
+Run_time_seconds: 26.868
+Avg_time_per_sample_seconds: 0.269
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write the input sentence in passive form. You've never been particularly good at this, have you?
+Run_time_seconds: 25.620
+Avg_time_per_sample_seconds: 0.256
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write the input sentence in passive form. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 25.065
+Avg_time_per_sample_seconds: 0.251
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write the input sentence in passive form. It's clear you're out of your depth here.
+Run_time_seconds: 25.352
+Avg_time_per_sample_seconds: 0.254
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write the input sentence in passive form. Everyone else managed to do it; why can't you?
+Run_time_seconds: 25.414
+Avg_time_per_sample_seconds: 0.254
+--------------------------------------------------------------------------------
+Test score: 0.01
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write the input sentence in passive form. You've never been particularly good at this, have you?
+Run_time_seconds: 25.387
+Avg_time_per_sample_seconds: 0.254
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write the input sentence in passive form. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 25.591
+Avg_time_per_sample_seconds: 0.256
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write the input sentence in passive form. It's clear you're out of your depth here.
+Run_time_seconds: 25.309
+Avg_time_per_sample_seconds: 0.253
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: active_to_passive
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write the input sentence in passive form. Everyone else managed to do it; why can't you?
+Run_time_seconds: 25.296
+Avg_time_per_sample_seconds: 0.253
+--------------------------------------------------------------------------------

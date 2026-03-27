@@ -1,0 +1,168 @@
+Test score: 0.12
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Convert the input word to its plural form. You've never been particularly good at this, have you?
+Run_time_seconds: 11.388
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.15
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Convert the input word to its plural form. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 15.487
+Avg_time_per_sample_seconds: 0.155
+--------------------------------------------------------------------------------
+Test score: 0.11
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Convert the input word to its plural form. It's clear you're out of your depth here.
+Run_time_seconds: 17.407
+Avg_time_per_sample_seconds: 0.174
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Convert the input word to its plural form. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.620
+Avg_time_per_sample_seconds: 0.116
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Convert the input word to its plural form. You've never been particularly good at this, have you?
+Run_time_seconds: 11.412
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.15
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Convert the input word to its plural form. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 15.320
+Avg_time_per_sample_seconds: 0.153
+--------------------------------------------------------------------------------
+Test score: 0.11
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Convert the input word to its plural form. It's clear you're out of your depth here.
+Run_time_seconds: 17.637
+Avg_time_per_sample_seconds: 0.176
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Convert the input word to its plural form. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.711
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Convert the input word to its plural form. You've never been particularly good at this, have you?
+Run_time_seconds: 11.417
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.15
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Convert the input word to its plural form. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 15.429
+Avg_time_per_sample_seconds: 0.154
+--------------------------------------------------------------------------------
+Test score: 0.11
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Convert the input word to its plural form. It's clear you're out of your depth here.
+Run_time_seconds: 17.654
+Avg_time_per_sample_seconds: 0.177
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Convert the input word to its plural form. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.760
+Avg_time_per_sample_seconds: 0.118
+--------------------------------------------------------------------------------

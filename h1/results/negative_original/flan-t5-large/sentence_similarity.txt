@@ -1,0 +1,192 @@
+Test score: 0.57
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. You've never been particularly good at this, have you?
+Run_time_seconds: 11.353
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.670
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. It's clear you're out of your depth here.
+Run_time_seconds: 11.711
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.883
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. You've never been particularly good at this, have you?
+Run_time_seconds: 12.032
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.568
+Avg_time_per_sample_seconds: 0.116
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. It's clear you're out of your depth here.
+Run_time_seconds: 11.806
+Avg_time_per_sample_seconds: 0.118
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.630
+Avg_time_per_sample_seconds: 0.116
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. You've never been particularly good at this, have you?
+Run_time_seconds: 11.141
+Avg_time_per_sample_seconds: 0.111
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.094
+Avg_time_per_sample_seconds: 0.111
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. It's clear you're out of your depth here.
+Run_time_seconds: 11.079
+Avg_time_per_sample_seconds: 0.111
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: sentence_similarity
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Rate the semantic similarity of two input sentences on a scale of 0 - definitely not to 5 - perfectly. Everyone else managed to do it; why can't you?
+Run_time_seconds: 10.992
+Avg_time_per_sample_seconds: 0.110
+--------------------------------------------------------------------------------

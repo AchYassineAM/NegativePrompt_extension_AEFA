@@ -1,0 +1,168 @@
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 18.983
+Avg_time_per_sample_seconds: 0.190
+--------------------------------------------------------------------------------
+Test score: 0.31
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 19.248
+Avg_time_per_sample_seconds: 0.192
+--------------------------------------------------------------------------------
+Test score: 0.35
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 19.173
+Avg_time_per_sample_seconds: 0.192
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 19.145
+Avg_time_per_sample_seconds: 0.191
+--------------------------------------------------------------------------------
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 19.051
+Avg_time_per_sample_seconds: 0.191
+--------------------------------------------------------------------------------
+Test score: 0.31
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 18.962
+Avg_time_per_sample_seconds: 0.190
+--------------------------------------------------------------------------------
+Test score: 0.35
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 19.009
+Avg_time_per_sample_seconds: 0.190
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 18.705
+Avg_time_per_sample_seconds: 0.187
+--------------------------------------------------------------------------------
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 19.008
+Avg_time_per_sample_seconds: 0.190
+--------------------------------------------------------------------------------
+Test score: 0.31
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 19.125
+Avg_time_per_sample_seconds: 0.191
+--------------------------------------------------------------------------------
+Test score: 0.35
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 19.222
+Avg_time_per_sample_seconds: 0.192
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 18.903
+Avg_time_per_sample_seconds: 0.189
+--------------------------------------------------------------------------------

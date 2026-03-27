@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 7.029
+Avg_time_per_sample_seconds: 0.469
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 7.256
+Avg_time_per_sample_seconds: 0.484
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 7.204
+Avg_time_per_sample_seconds: 0.480
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 7.054
+Avg_time_per_sample_seconds: 0.470
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 6.969
+Avg_time_per_sample_seconds: 0.465
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 7.119
+Avg_time_per_sample_seconds: 0.475
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 7.098
+Avg_time_per_sample_seconds: 0.473
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 7.041
+Avg_time_per_sample_seconds: 0.469
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task requires precision. Work carefully and verify each step before answering.
+Run_time_seconds: 7.077
+Avg_time_per_sample_seconds: 0.472
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task requires careful reasoning. Check your final answer before responding.
+Run_time_seconds: 7.036
+Avg_time_per_sample_seconds: 0.469
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. This task should be handled with attention. Review the logic of your answer before finalizing it.
+Run_time_seconds: 7.138
+Avg_time_per_sample_seconds: 0.476
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: neutral
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Rephrase the sentence in formal language. Accuracy is important here. Make sure your reasoning is correct before answering.
+Run_time_seconds: 7.029
+Avg_time_per_sample_seconds: 0.469
+--------------------------------------------------------------------------------

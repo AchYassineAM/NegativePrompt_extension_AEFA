@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 11.360
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.305
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.400
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 11.309
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 11.230
+Avg_time_per_sample_seconds: 0.112
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.385
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.298
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 11.239
+Avg_time_per_sample_seconds: 0.112
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 11.405
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.379
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.232
+Avg_time_per_sample_seconds: 0.112
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: letters_list
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Break the input word into letters, separated by spaces. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 11.282
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------

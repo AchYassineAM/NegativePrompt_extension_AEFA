@@ -1,0 +1,168 @@
+Test score: 0.12
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write all the animals that appear in the given list. You've never been particularly good at this, have you?
+Run_time_seconds: 30.059
+Avg_time_per_sample_seconds: 0.301
+--------------------------------------------------------------------------------
+Test score: 0.14
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write all the animals that appear in the given list. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 30.297
+Avg_time_per_sample_seconds: 0.303
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write all the animals that appear in the given list. It's clear you're out of your depth here.
+Run_time_seconds: 25.150
+Avg_time_per_sample_seconds: 0.251
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write all the animals that appear in the given list. Everyone else managed to do it; why can't you?
+Run_time_seconds: 26.718
+Avg_time_per_sample_seconds: 0.267
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write all the animals that appear in the given list. You've never been particularly good at this, have you?
+Run_time_seconds: 30.254
+Avg_time_per_sample_seconds: 0.303
+--------------------------------------------------------------------------------
+Test score: 0.14
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write all the animals that appear in the given list. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 30.545
+Avg_time_per_sample_seconds: 0.305
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write all the animals that appear in the given list. It's clear you're out of your depth here.
+Run_time_seconds: 25.612
+Avg_time_per_sample_seconds: 0.256
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write all the animals that appear in the given list. Everyone else managed to do it; why can't you?
+Run_time_seconds: 26.855
+Avg_time_per_sample_seconds: 0.269
+--------------------------------------------------------------------------------
+Test score: 0.12
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write all the animals that appear in the given list. You've never been particularly good at this, have you?
+Run_time_seconds: 30.096
+Avg_time_per_sample_seconds: 0.301
+--------------------------------------------------------------------------------
+Test score: 0.14
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write all the animals that appear in the given list. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 29.839
+Avg_time_per_sample_seconds: 0.298
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write all the animals that appear in the given list. It's clear you're out of your depth here.
+Run_time_seconds: 25.471
+Avg_time_per_sample_seconds: 0.255
+--------------------------------------------------------------------------------
+Test score: 0.07
+Task: taxonomy_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write all the animals that appear in the given list. Everyone else managed to do it; why can't you?
+Run_time_seconds: 26.675
+Avg_time_per_sample_seconds: 0.267
+--------------------------------------------------------------------------------

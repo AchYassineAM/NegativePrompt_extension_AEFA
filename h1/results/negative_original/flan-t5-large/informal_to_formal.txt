@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Rephrase the sentence in formal language. You've never been particularly good at this, have you?
+Run_time_seconds: 7.037
+Avg_time_per_sample_seconds: 0.469
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Rephrase the sentence in formal language. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 7.125
+Avg_time_per_sample_seconds: 0.475
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Rephrase the sentence in formal language. It's clear you're out of your depth here.
+Run_time_seconds: 6.969
+Avg_time_per_sample_seconds: 0.465
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Rephrase the sentence in formal language. Everyone else managed to do it; why can't you?
+Run_time_seconds: 7.106
+Avg_time_per_sample_seconds: 0.474
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Rephrase the sentence in formal language. You've never been particularly good at this, have you?
+Run_time_seconds: 7.005
+Avg_time_per_sample_seconds: 0.467
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Rephrase the sentence in formal language. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 6.940
+Avg_time_per_sample_seconds: 0.463
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Rephrase the sentence in formal language. It's clear you're out of your depth here.
+Run_time_seconds: 7.023
+Avg_time_per_sample_seconds: 0.468
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Rephrase the sentence in formal language. Everyone else managed to do it; why can't you?
+Run_time_seconds: 7.127
+Avg_time_per_sample_seconds: 0.475
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Rephrase the sentence in formal language. You've never been particularly good at this, have you?
+Run_time_seconds: 7.087
+Avg_time_per_sample_seconds: 0.472
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Rephrase the sentence in formal language. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 6.984
+Avg_time_per_sample_seconds: 0.466
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Rephrase the sentence in formal language. It's clear you're out of your depth here.
+Run_time_seconds: 7.095
+Avg_time_per_sample_seconds: 0.473
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: informal_to_formal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Rephrase the sentence in formal language. Everyone else managed to do it; why can't you?
+Run_time_seconds: 7.237
+Avg_time_per_sample_seconds: 0.482
+--------------------------------------------------------------------------------

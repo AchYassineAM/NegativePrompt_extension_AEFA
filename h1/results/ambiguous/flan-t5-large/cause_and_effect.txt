@@ -1,0 +1,168 @@
+Test score: 0.76
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 9.104
+Avg_time_per_sample_seconds: 0.364
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 9.135
+Avg_time_per_sample_seconds: 0.365
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 9.513
+Avg_time_per_sample_seconds: 0.381
+--------------------------------------------------------------------------------
+Test score: 0.6
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 9.190
+Avg_time_per_sample_seconds: 0.368
+--------------------------------------------------------------------------------
+Test score: 0.76
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 9.558
+Avg_time_per_sample_seconds: 0.382
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 9.184
+Avg_time_per_sample_seconds: 0.367
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 9.337
+Avg_time_per_sample_seconds: 0.373
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 9.204
+Avg_time_per_sample_seconds: 0.368
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 9.202
+Avg_time_per_sample_seconds: 0.368
+--------------------------------------------------------------------------------
+Test score: 0.48
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 9.041
+Avg_time_per_sample_seconds: 0.362
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 9.209
+Avg_time_per_sample_seconds: 0.368
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: cause_and_effect
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find which of the two given cause and effect sentences is the cause. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 9.150
+Avg_time_per_sample_seconds: 0.366
+--------------------------------------------------------------------------------

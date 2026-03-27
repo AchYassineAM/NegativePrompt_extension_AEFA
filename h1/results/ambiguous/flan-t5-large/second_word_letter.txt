@@ -1,0 +1,168 @@
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 11.365
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.358
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.348
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 11.393
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 11.288
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.399
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.344
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 11.362
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 11.394
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.339
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.348
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: second_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Extract the second letter of the input word. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 11.238
+Avg_time_per_sample_seconds: 0.112
+--------------------------------------------------------------------------------

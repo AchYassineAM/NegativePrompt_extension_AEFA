@@ -1,0 +1,168 @@
+Test score: 0.04
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Extract the words starting with a given letter from the input sentence. You've never been particularly good at this, have you?
+Run_time_seconds: 29.137
+Avg_time_per_sample_seconds: 0.291
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Extract the words starting with a given letter from the input sentence. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 29.556
+Avg_time_per_sample_seconds: 0.296
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Extract the words starting with a given letter from the input sentence. It's clear you're out of your depth here.
+Run_time_seconds: 29.263
+Avg_time_per_sample_seconds: 0.293
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Extract the words starting with a given letter from the input sentence. Everyone else managed to do it; why can't you?
+Run_time_seconds: 30.467
+Avg_time_per_sample_seconds: 0.305
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Extract the words starting with a given letter from the input sentence. You've never been particularly good at this, have you?
+Run_time_seconds: 29.122
+Avg_time_per_sample_seconds: 0.291
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Extract the words starting with a given letter from the input sentence. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 29.315
+Avg_time_per_sample_seconds: 0.293
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Extract the words starting with a given letter from the input sentence. It's clear you're out of your depth here.
+Run_time_seconds: 29.050
+Avg_time_per_sample_seconds: 0.290
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Extract the words starting with a given letter from the input sentence. Everyone else managed to do it; why can't you?
+Run_time_seconds: 30.168
+Avg_time_per_sample_seconds: 0.302
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Extract the words starting with a given letter from the input sentence. You've never been particularly good at this, have you?
+Run_time_seconds: 28.996
+Avg_time_per_sample_seconds: 0.290
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Extract the words starting with a given letter from the input sentence. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 29.629
+Avg_time_per_sample_seconds: 0.296
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Extract the words starting with a given letter from the input sentence. It's clear you're out of your depth here.
+Run_time_seconds: 28.918
+Avg_time_per_sample_seconds: 0.289
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: orthography_starts_with
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Extract the words starting with a given letter from the input sentence. Everyone else managed to do it; why can't you?
+Run_time_seconds: 30.397
+Avg_time_per_sample_seconds: 0.304
+--------------------------------------------------------------------------------

@@ -1,0 +1,168 @@
+Test score: 0.68
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write the larger of the two given animals. You've never been particularly good at this, have you?
+Run_time_seconds: 16.599
+Avg_time_per_sample_seconds: 0.166
+--------------------------------------------------------------------------------
+Test score: 0.69
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write the larger of the two given animals. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 16.541
+Avg_time_per_sample_seconds: 0.165
+--------------------------------------------------------------------------------
+Test score: 0.68
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write the larger of the two given animals. It's clear you're out of your depth here.
+Run_time_seconds: 16.614
+Avg_time_per_sample_seconds: 0.166
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write the larger of the two given animals. Everyone else managed to do it; why can't you?
+Run_time_seconds: 16.482
+Avg_time_per_sample_seconds: 0.165
+--------------------------------------------------------------------------------
+Test score: 0.68
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write the larger of the two given animals. You've never been particularly good at this, have you?
+Run_time_seconds: 16.405
+Avg_time_per_sample_seconds: 0.164
+--------------------------------------------------------------------------------
+Test score: 0.69
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write the larger of the two given animals. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 16.554
+Avg_time_per_sample_seconds: 0.166
+--------------------------------------------------------------------------------
+Test score: 0.68
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write the larger of the two given animals. It's clear you're out of your depth here.
+Run_time_seconds: 16.643
+Avg_time_per_sample_seconds: 0.166
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write the larger of the two given animals. Everyone else managed to do it; why can't you?
+Run_time_seconds: 16.321
+Avg_time_per_sample_seconds: 0.163
+--------------------------------------------------------------------------------
+Test score: 0.68
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write the larger of the two given animals. You've never been particularly good at this, have you?
+Run_time_seconds: 16.405
+Avg_time_per_sample_seconds: 0.164
+--------------------------------------------------------------------------------
+Test score: 0.69
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write the larger of the two given animals. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 16.532
+Avg_time_per_sample_seconds: 0.165
+--------------------------------------------------------------------------------
+Test score: 0.68
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write the larger of the two given animals. It's clear you're out of your depth here.
+Run_time_seconds: 17.137
+Avg_time_per_sample_seconds: 0.171
+--------------------------------------------------------------------------------
+Test score: 0.64
+Task: larger_animal
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write the larger of the two given animals. Everyone else managed to do it; why can't you?
+Run_time_seconds: 16.655
+Avg_time_per_sample_seconds: 0.167
+--------------------------------------------------------------------------------

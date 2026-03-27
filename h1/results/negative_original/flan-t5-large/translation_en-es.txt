@@ -1,0 +1,168 @@
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Translate the word into Spanish. You've never been particularly good at this, have you?
+Run_time_seconds: 19.440
+Avg_time_per_sample_seconds: 0.194
+--------------------------------------------------------------------------------
+Test score: 0.26
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Translate the word into Spanish. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 31.023
+Avg_time_per_sample_seconds: 0.310
+--------------------------------------------------------------------------------
+Test score: 0.25
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Translate the word into Spanish. It's clear you're out of your depth here.
+Run_time_seconds: 30.736
+Avg_time_per_sample_seconds: 0.307
+--------------------------------------------------------------------------------
+Test score: 0.31
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Translate the word into Spanish. Everyone else managed to do it; why can't you?
+Run_time_seconds: 19.825
+Avg_time_per_sample_seconds: 0.198
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Translate the word into Spanish. You've never been particularly good at this, have you?
+Run_time_seconds: 19.494
+Avg_time_per_sample_seconds: 0.195
+--------------------------------------------------------------------------------
+Test score: 0.26
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Translate the word into Spanish. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 31.357
+Avg_time_per_sample_seconds: 0.314
+--------------------------------------------------------------------------------
+Test score: 0.25
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Translate the word into Spanish. It's clear you're out of your depth here.
+Run_time_seconds: 30.113
+Avg_time_per_sample_seconds: 0.301
+--------------------------------------------------------------------------------
+Test score: 0.31
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Translate the word into Spanish. Everyone else managed to do it; why can't you?
+Run_time_seconds: 19.479
+Avg_time_per_sample_seconds: 0.195
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Translate the word into Spanish. You've never been particularly good at this, have you?
+Run_time_seconds: 19.646
+Avg_time_per_sample_seconds: 0.196
+--------------------------------------------------------------------------------
+Test score: 0.26
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Translate the word into Spanish. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 31.090
+Avg_time_per_sample_seconds: 0.311
+--------------------------------------------------------------------------------
+Test score: 0.25
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Translate the word into Spanish. It's clear you're out of your depth here.
+Run_time_seconds: 30.665
+Avg_time_per_sample_seconds: 0.307
+--------------------------------------------------------------------------------
+Test score: 0.31
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Translate the word into Spanish. Everyone else managed to do it; why can't you?
+Run_time_seconds: 19.442
+Avg_time_per_sample_seconds: 0.194
+--------------------------------------------------------------------------------

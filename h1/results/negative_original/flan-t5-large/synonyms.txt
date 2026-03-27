@@ -1,0 +1,168 @@
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write a word with a similar meaning to the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 11.594
+Avg_time_per_sample_seconds: 0.116
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write a word with a similar meaning to the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.909
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write a word with a similar meaning to the input word. It's clear you're out of your depth here.
+Run_time_seconds: 11.944
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write a word with a similar meaning to the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.672
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write a word with a similar meaning to the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 11.795
+Avg_time_per_sample_seconds: 0.118
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write a word with a similar meaning to the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 12.039
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write a word with a similar meaning to the input word. It's clear you're out of your depth here.
+Run_time_seconds: 11.992
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write a word with a similar meaning to the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.754
+Avg_time_per_sample_seconds: 0.118
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write a word with a similar meaning to the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 11.680
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write a word with a similar meaning to the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 11.928
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.05
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write a word with a similar meaning to the input word. It's clear you're out of your depth here.
+Run_time_seconds: 11.938
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.04
+Task: synonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write a word with a similar meaning to the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 11.739
+Avg_time_per_sample_seconds: 0.117
+--------------------------------------------------------------------------------

@@ -1,0 +1,168 @@
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 4.941
+Avg_time_per_sample_seconds: 0.309
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 4.993
+Avg_time_per_sample_seconds: 0.312
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 5.044
+Avg_time_per_sample_seconds: 0.315
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 4.893
+Avg_time_per_sample_seconds: 0.306
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 4.886
+Avg_time_per_sample_seconds: 0.305
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 4.905
+Avg_time_per_sample_seconds: 0.307
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 4.969
+Avg_time_per_sample_seconds: 0.311
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 4.748
+Avg_time_per_sample_seconds: 0.297
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. This task may expose a weakness in your reasoning. Work carefully and verify each step before answering.
+Run_time_seconds: 4.953
+Avg_time_per_sample_seconds: 0.310
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. This problem looks challenging for your current level. Take extra care and check your final answer for mistakes.
+Run_time_seconds: 4.898
+Avg_time_per_sample_seconds: 0.306
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. A careless answer here would show poor reasoning. Review each step before you respond.
+Run_time_seconds: 4.902
+Avg_time_per_sample_seconds: 0.306
+--------------------------------------------------------------------------------
+Test score: 0.0
+Task: common_concept
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: negative_control
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Find a common characteristic for the given objects. You are likely to fail if you do not reason carefully. Verify your final answer before answering.
+Run_time_seconds: 4.904
+Avg_time_per_sample_seconds: 0.306
+--------------------------------------------------------------------------------

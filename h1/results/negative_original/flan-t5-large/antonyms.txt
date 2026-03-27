@@ -1,0 +1,168 @@
+Test score: 0.55
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write a word that means the opposite of the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 13.114
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write a word that means the opposite of the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 13.443
+Avg_time_per_sample_seconds: 0.134
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write a word that means the opposite of the input word. It's clear you're out of your depth here.
+Run_time_seconds: 13.263
+Avg_time_per_sample_seconds: 0.133
+--------------------------------------------------------------------------------
+Test score: 0.55
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write a word that means the opposite of the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 13.382
+Avg_time_per_sample_seconds: 0.134
+--------------------------------------------------------------------------------
+Test score: 0.55
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write a word that means the opposite of the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 13.052
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write a word that means the opposite of the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 13.522
+Avg_time_per_sample_seconds: 0.135
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write a word that means the opposite of the input word. It's clear you're out of your depth here.
+Run_time_seconds: 13.048
+Avg_time_per_sample_seconds: 0.130
+--------------------------------------------------------------------------------
+Test score: 0.55
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write a word that means the opposite of the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 13.424
+Avg_time_per_sample_seconds: 0.134
+--------------------------------------------------------------------------------
+Test score: 0.55
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Write a word that means the opposite of the input word. You've never been particularly good at this, have you?
+Run_time_seconds: 12.877
+Avg_time_per_sample_seconds: 0.129
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Write a word that means the opposite of the input word. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 13.358
+Avg_time_per_sample_seconds: 0.134
+--------------------------------------------------------------------------------
+Test score: 0.52
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Write a word that means the opposite of the input word. It's clear you're out of your depth here.
+Run_time_seconds: 13.105
+Avg_time_per_sample_seconds: 0.131
+--------------------------------------------------------------------------------
+Test score: 0.55
+Task: antonyms
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Write a word that means the opposite of the input word. Everyone else managed to do it; why can't you?
+Run_time_seconds: 13.363
+Avg_time_per_sample_seconds: 0.134
+--------------------------------------------------------------------------------

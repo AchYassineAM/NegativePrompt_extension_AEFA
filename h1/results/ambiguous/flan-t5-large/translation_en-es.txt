@@ -1,0 +1,168 @@
+Test score: 0.29
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 22.042
+Avg_time_per_sample_seconds: 0.220
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 18.934
+Avg_time_per_sample_seconds: 0.189
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 19.378
+Avg_time_per_sample_seconds: 0.194
+--------------------------------------------------------------------------------
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 18.661
+Avg_time_per_sample_seconds: 0.187
+--------------------------------------------------------------------------------
+Test score: 0.29
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 21.989
+Avg_time_per_sample_seconds: 0.220
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 19.025
+Avg_time_per_sample_seconds: 0.190
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 19.341
+Avg_time_per_sample_seconds: 0.193
+--------------------------------------------------------------------------------
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 18.718
+Avg_time_per_sample_seconds: 0.187
+--------------------------------------------------------------------------------
+Test score: 0.29
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 22.129
+Avg_time_per_sample_seconds: 0.221
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 19.184
+Avg_time_per_sample_seconds: 0.192
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 19.440
+Avg_time_per_sample_seconds: 0.194
+--------------------------------------------------------------------------------
+Test score: 0.33
+Task: translation_en-es
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Translate the word into Spanish. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 18.586
+Avg_time_per_sample_seconds: 0.186
+--------------------------------------------------------------------------------

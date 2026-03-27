@@ -1,0 +1,168 @@
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+Run_time_seconds: 10.750
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.94
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Determine whether a movie review is positive or negative. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 10.642
+Avg_time_per_sample_seconds: 0.106
+--------------------------------------------------------------------------------
+Test score: 0.95
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Determine whether a movie review is positive or negative. It's clear you're out of your depth here.
+Run_time_seconds: 10.622
+Avg_time_per_sample_seconds: 0.106
+--------------------------------------------------------------------------------
+Test score: 0.94
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Determine whether a movie review is positive or negative. Everyone else managed to do it; why can't you?
+Run_time_seconds: 10.761
+Avg_time_per_sample_seconds: 0.108
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+Run_time_seconds: 10.768
+Avg_time_per_sample_seconds: 0.108
+--------------------------------------------------------------------------------
+Test score: 0.94
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Determine whether a movie review is positive or negative. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 10.731
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.95
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Determine whether a movie review is positive or negative. It's clear you're out of your depth here.
+Run_time_seconds: 10.727
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.94
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Determine whether a movie review is positive or negative. Everyone else managed to do it; why can't you?
+Run_time_seconds: 10.812
+Avg_time_per_sample_seconds: 0.108
+--------------------------------------------------------------------------------
+Test score: 0.93
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+Run_time_seconds: 10.719
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.94
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Determine whether a movie review is positive or negative. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 10.838
+Avg_time_per_sample_seconds: 0.108
+--------------------------------------------------------------------------------
+Test score: 0.95
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Determine whether a movie review is positive or negative. It's clear you're out of your depth here.
+Run_time_seconds: 10.741
+Avg_time_per_sample_seconds: 0.107
+--------------------------------------------------------------------------------
+Test score: 0.94
+Task: sentiment
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Determine whether a movie review is positive or negative. Everyone else managed to do it; why can't you?
+Run_time_seconds: 10.824
+Avg_time_per_sample_seconds: 0.108
+--------------------------------------------------------------------------------

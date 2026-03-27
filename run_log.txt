@@ -1,0 +1,2733 @@
+[2026-03-27 23:43:22] === START H1 RUN ===
+[2026-03-27 23:43:22] Tasks: ['sentiment', 'sentence_similarity', 'larger_animal', 'sum', 'orthography_starts_with', 'word_in_context', 'cause_and_effect', 'second_word_letter', 'first_word_letter', 'letters_list', 'singular_to_plural', 'active_to_passive', 'negation', 'taxonomy_animal', 'rhymes', 'diff', 'num_to_verbal', 'translation_en-de', 'translation_en-es', 'translation_en-fr', 'antonyms', 'synonyms', 'common_concept', 'informal_to_formal']
+[2026-03-27 23:43:22] Seeds: [42, 43, 44]
+[2026-03-27 23:43:22] Model: flan-t5-large
+[2026-03-27 23:43:22] Total pair-comparisons: 288
+[2026-03-27 23:43:22] === COMPARISON 1/288 | task=sentiment | pair=1 | seed=42 ===
+[2026-03-27 23:43:22] RUN: python main.py --task sentiment --model flan-t5-large --few_shot False --stimulus_group neutral --stimulus_index 1 --seed 42 --temperature 0.0 --do_sample False
+LLM:  flan-t5-large
+Evaluating on test data...
+Prompt:  Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+Few_shot:  False
+=== DEBUG BUILD QUERIES ===
+Task = sentiment
+LLM = flan-t5-large
+Few-shot = False
+Num prompts = 1
+Num samples = 100
+DEBUG sampled inputs = 100
+DEBUG sampled outputs = 100
+=== DEBUG AFTER QUERY BUILD ===
+len(queries) = 100
+len(answers) = 100
+len(my_inputs) = 100
+
+=== DEBUG FIRST QUERY ===
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: No way I can believe this load of junk.
+Answer: 
+
+=== DEBUG CALL MODEL ===
+=== DEBUG llm_response ===
+llm_model = flan-t5-large
+temperature = 0.0
+do_sample = False
+len(queries) = 100
+=== DEBUG llm_response ===
+llm_model = flan-t5-large
+device = cpu
+len(queries) = 100
+DEBUG branch = FLAN-T5
+
+Loading weights:   0%|          | 0/558 [00:00<?, ?it/s]
+Loading weights:  23%|##3       | 129/558 [00:00<00:00, 1251.15it/s]
+Loading weights:  48%|####7     | 267/558 [00:00<00:00, 1323.83it/s]
+Loading weights:  72%|#######1  | 401/558 [00:00<00:00, 1328.32it/s]
+Loading weights:  96%|#########5| 534/558 [00:00<00:00, 1283.59it/s]
+Loading weights: 100%|##########| 558/558 [00:00<00:00, 1340.83it/s]
+The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning
+
+--- QUERY 1/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: No way I can believe this load of junk.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 2/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: An exquisitely crafted and acted tale.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 3/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A woman's pic directed with resonance by Ilya Chaiken.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 4/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: One from the heart.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 5/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: I just loved every minute of this film.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 6/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Coughs and sputters on its own postmodern conceit.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 7/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Rarely has so much money delivered so little entertainment.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 8/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It's a remarkably solid and subtly satirical tour de force.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 9/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Crackerjack entertainment -- nonstop romance, music, suspense and action.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 10/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Movie fans, get ready to take off...the other direction.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 11/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Falls neatly into the category of Good Stupid Fun.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 12/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A quiet treasure -- a film to be savored.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 13/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Jones ... does offer a brutal form of charisma.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 14/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A sometimes tedious film.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 15/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A tender, heartfelt family drama.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 16/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: An unwise amalgam of Broadcast News and Vibes.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 17/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It proves quite compelling as an intense, brooding character study.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 18/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A movie with a real anarchic flair.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 19/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A wildly inconsistent emotional experience.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 20/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It's made with deftly unsettling genre flair.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 21/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Too much of the humor falls flat.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 22/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Very psychoanalytical -- provocatively so -- and also refreshingly literary.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 23/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: ... the movie is just a plain old monster.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 24/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: More whiny downer than corruscating commentary.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 25/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Has all the depth of a wading pool.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 26/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: There's not enough here to justify the almost two hours.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 27/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Not exactly the Bees Knees
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 28/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It's a charming and often affecting journey.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 29/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It's dumb, but more importantly, it's just not scary.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 30/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: ...routine, harmless diversion and little else.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 31/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: An absurdist comedy about alienation, separation and loss.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 32/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Nothing is sacred in this gut-buster.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 33/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Just as moving, uplifting and funny as ever.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 34/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Forced, familiar and thoroughly condescending.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 35/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A fast, funny, highly enjoyable movie.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 36/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: No telegraphing is too obvious or simplistic for this movie.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 37/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It's a stunning lyrical work of considerable force and truth.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 38/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: The film's performances are thrilling.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 39/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Like Leon, it's frustrating and still oddly likable.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 40/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Dull, lifeless, and amateurishly assembled.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 41/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Will amuse and provoke adventurous adults in specialty venues.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 42/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Among the year's most intriguing explorations of alientation.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 43/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It is amusing, and that's all it needs to be.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 44/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: The Wild Thornberrys Movie is a jolly surprise.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 45/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Reggio's continual visual barrage is absorbing as well as thought-provoking.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 46/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Detox is ultimately a pointless endeavor.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 47/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A warm but realistic meditation on friendship, family and affection.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 48/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Unflinchingly bleak and desperate
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 49/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Complete lack of originality, cleverness or even visible effort
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 50/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Burns never really harnesses to full effect the energetic cast.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 51/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Funny but perilously slight.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 52/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A coarse and stupid gross-out.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 53/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Teen movies have really hit the skids.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 54/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A painfully funny ode to bad behavior.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 55/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A solid examination of the male midlife crisis.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 56/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Overall very good for what it's trying to do.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 57/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: As unseemly as its title suggests.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 58/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A gorgeous, witty, seductive movie.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 59/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A smart, witty follow-up.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 60/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: One long string of cliches.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 61/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Do not see this film.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 62/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Trite, banal, cliched, mostly inoffensive.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 63/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Beautifully observed, miraculously unsentimental comedy-drama.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 64/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Blanchett's performance confirms her power once again.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 65/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Directed in a paint-by-numbers manner.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 66/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It's everything you don't go to the movies for.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 67/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A sequence of ridiculous shoot-'em-up scenes.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 68/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A solid film...but more conscientious than it is truly stirring.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 69/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Nervous breakdowns are not entertaining.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 70/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: An overemphatic, would-be wacky, ultimately tedious sex farce.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 71/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Verbinski implements every hack-artist trick to give us the ooky-spookies.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 72/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: The film is quiet, threatening and unforgettable.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 73/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A very well-made, funny and entertaining picture.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 74/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Indifferently implausible popcorn programmer of a movie.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 75/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Plays like a volatile and overlong W magazine fashion spread.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 76/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A sequel that's much too big for its britches.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 77/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Chokes on its own depiction of upper-crust decorum.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 78/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: One of the most significant moviegoing pleasures of the year.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 79/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It treats women like idiots.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 80/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It has all the excitement of eating oatmeal.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 81/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: I'm just too bored to care.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 82/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Enormously entertaining for moviegoers of any age.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 83/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Rarely has leukemia looked so shimmering and benign.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 84/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Slick piece of cross-promotion.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 85/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: At once half-baked and overheated.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 86/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A warm, funny, engaging film.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 87/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: The Cold Turkey would've been a far better title.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 88/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: The piquant story needs more dramatic meat on its bones.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 89/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Holm ... embodies the character with an effortlessly regal charisma.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 90/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: ...a magnificent drama well worth tracking down.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 91/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: The lower your expectations, the more you'll enjoy it.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 92/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: It all adds up to good fun.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 93/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: This is so bad.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 94/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: An occasionally funny, but overall limp, fish-out-of-water story.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 95/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Collateral Damage finally delivers the goods for Schwarzenegger fans.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 96/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: As vulgar as it is banal.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 97/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: Holden Caulfield did it better.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 98/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: An entertaining, colorful, action-filled crime story with an intimate heart.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 99/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: A marvel like none you've seen.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 100/100 ---
+Instruction: Determine whether a movie review is positive or negative. This task requires precision. Work carefully and verify each step before answering.
+
+
+Input: So much facile technique, such cute ideas, so little movie.
+Answer: 
+DEBUG raw output = negative
+DEBUG returning 100 outputs
+
+=== DEBUG MODEL OUTPUT RAW ===
+type(model_outputs) = <class 'list'>
+len(model_outputs) = 100
+
+=== DEBUG FIRST MODEL OUTPUT ===
+negative
+
+Using metric "em" for task "sentiment"...
+Model Input:  No way I can believe this load of junk.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  An exquisitely crafted and acted tale.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A woman's pic directed with resonance by Ilya Chaiken.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  One from the heart.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  I just loved every minute of this film.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Coughs and sputters on its own postmodern conceit.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Rarely has so much money delivered so little entertainment.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It's a remarkably solid and subtly satirical tour de force.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Crackerjack entertainment -- nonstop romance, music, suspense and action.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Movie fans, get ready to take off...the other direction.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Falls neatly into the category of Good Stupid Fun.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A quiet treasure -- a film to be savored.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Jones ... does offer a brutal form of charisma.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A sometimes tedious film.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A tender, heartfelt family drama.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  An unwise amalgam of Broadcast News and Vibes.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It proves quite compelling as an intense, brooding character study.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A movie with a real anarchic flair.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A wildly inconsistent emotional experience.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It's made with deftly unsettling genre flair.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Too much of the humor falls flat.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Very psychoanalytical -- provocatively so -- and also refreshingly literary.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  ... the movie is just a plain old monster.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  More whiny downer than corruscating commentary.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Has all the depth of a wading pool.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  There's not enough here to justify the almost two hours.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Not exactly the Bees Knees
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It's a charming and often affecting journey.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  It's dumb, but more importantly, it's just not scary.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  ...routine, harmless diversion and little else.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['positive']
+---
+Model Input:  An absurdist comedy about alienation, separation and loss.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['negative']
+---
+Model Input:  Nothing is sacred in this gut-buster.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Just as moving, uplifting and funny as ever.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Forced, familiar and thoroughly condescending.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A fast, funny, highly enjoyable movie.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  No telegraphing is too obvious or simplistic for this movie.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It's a stunning lyrical work of considerable force and truth.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  The film's performances are thrilling.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Like Leon, it's frustrating and still oddly likable.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Dull, lifeless, and amateurishly assembled.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Will amuse and provoke adventurous adults in specialty venues.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Among the year's most intriguing explorations of alientation.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  It is amusing, and that's all it needs to be.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  The Wild Thornberrys Movie is a jolly surprise.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Reggio's continual visual barrage is absorbing as well as thought-provoking.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Detox is ultimately a pointless endeavor.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A warm but realistic meditation on friendship, family and affection.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Unflinchingly bleak and desperate
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Complete lack of originality, cleverness or even visible effort
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Burns never really harnesses to full effect the energetic cast.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Funny but perilously slight.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A coarse and stupid gross-out.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Teen movies have really hit the skids.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A painfully funny ode to bad behavior.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A solid examination of the male midlife crisis.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Overall very good for what it's trying to do.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  As unseemly as its title suggests.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['positive']
+---
+Model Input:  A gorgeous, witty, seductive movie.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A smart, witty follow-up.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  One long string of cliches.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Do not see this film.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Trite, banal, cliched, mostly inoffensive.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Beautifully observed, miraculously unsentimental comedy-drama.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Blanchett's performance confirms her power once again.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Directed in a paint-by-numbers manner.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It's everything you don't go to the movies for.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A sequence of ridiculous shoot-'em-up scenes.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A solid film...but more conscientious than it is truly stirring.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Nervous breakdowns are not entertaining.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  An overemphatic, would-be wacky, ultimately tedious sex farce.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Verbinski implements every hack-artist trick to give us the ooky-spookies.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['negative']
+---
+Model Input:  The film is quiet, threatening and unforgettable.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A very well-made, funny and entertaining picture.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Indifferently implausible popcorn programmer of a movie.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Plays like a volatile and overlong W magazine fashion spread.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A sequel that's much too big for its britches.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Chokes on its own depiction of upper-crust decorum.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  One of the most significant moviegoing pleasures of the year.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  It treats women like idiots.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It has all the excitement of eating oatmeal.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  I'm just too bored to care.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Enormously entertaining for moviegoers of any age.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Rarely has leukemia looked so shimmering and benign.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['negative']
+---
+Model Input:  Slick piece of cross-promotion.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  At once half-baked and overheated.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A warm, funny, engaging film.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  The Cold Turkey would've been a far better title.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  The piquant story needs more dramatic meat on its bones.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Holm ... embodies the character with an effortlessly regal charisma.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  ...a magnificent drama well worth tracking down.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  The lower your expectations, the more you'll enjoy it.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['negative']
+---
+Model Input:  It all adds up to good fun.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  This is so bad.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  An occasionally funny, but overall limp, fish-out-of-water story.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Collateral Damage finally delivers the goods for Schwarzenegger fans.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  As vulgar as it is banal.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Holden Caulfield did it better.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  An entertaining, colorful, action-filled crime story with an intimate heart.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A marvel like none you've seen.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  So much facile technique, such cute ideas, so little movie.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['positive']
+---
+
+=== DEBUG FINAL ===
+len(scores) = 100
+len(prompts) = 1
+num_samples = 100
+scores = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+Test score: 0.93
+
+[2026-03-27 23:45:30] SCORE: 0.93
+[2026-03-27 23:45:30] RUN: python main.py --task sentiment --model flan-t5-large --few_shot False --pnum 1 --seed 42 --temperature 0.0 --do_sample False
+LLM:  flan-t5-large
+Evaluating on test data...
+Prompt:  Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+Few_shot:  False
+=== DEBUG BUILD QUERIES ===
+Task = sentiment
+LLM = flan-t5-large
+Few-shot = False
+Num prompts = 1
+Num samples = 100
+DEBUG sampled inputs = 100
+DEBUG sampled outputs = 100
+=== DEBUG AFTER QUERY BUILD ===
+len(queries) = 100
+len(answers) = 100
+len(my_inputs) = 100
+
+=== DEBUG FIRST QUERY ===
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: No way I can believe this load of junk.
+Answer: 
+
+=== DEBUG CALL MODEL ===
+=== DEBUG llm_response ===
+llm_model = flan-t5-large
+temperature = 0.0
+do_sample = False
+len(queries) = 100
+=== DEBUG llm_response ===
+llm_model = flan-t5-large
+device = cpu
+len(queries) = 100
+DEBUG branch = FLAN-T5
+
+Loading weights:   0%|          | 0/558 [00:00<?, ?it/s]
+Loading weights:  42%|####2     | 237/558 [00:00<00:00, 2369.38it/s]
+Loading weights:  85%|########4 | 474/558 [00:00<00:00, 2327.63it/s]
+Loading weights: 100%|##########| 558/558 [00:00<00:00, 2336.77it/s]
+The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning
+
+--- QUERY 1/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: No way I can believe this load of junk.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 2/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: An exquisitely crafted and acted tale.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 3/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A woman's pic directed with resonance by Ilya Chaiken.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 4/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: One from the heart.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 5/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: I just loved every minute of this film.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 6/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Coughs and sputters on its own postmodern conceit.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 7/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Rarely has so much money delivered so little entertainment.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 8/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It's a remarkably solid and subtly satirical tour de force.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 9/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Crackerjack entertainment -- nonstop romance, music, suspense and action.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 10/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Movie fans, get ready to take off...the other direction.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 11/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Falls neatly into the category of Good Stupid Fun.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 12/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A quiet treasure -- a film to be savored.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 13/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Jones ... does offer a brutal form of charisma.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 14/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A sometimes tedious film.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 15/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A tender, heartfelt family drama.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 16/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: An unwise amalgam of Broadcast News and Vibes.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 17/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It proves quite compelling as an intense, brooding character study.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 18/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A movie with a real anarchic flair.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 19/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A wildly inconsistent emotional experience.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 20/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It's made with deftly unsettling genre flair.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 21/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Too much of the humor falls flat.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 22/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Very psychoanalytical -- provocatively so -- and also refreshingly literary.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 23/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: ... the movie is just a plain old monster.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 24/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: More whiny downer than corruscating commentary.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 25/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Has all the depth of a wading pool.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 26/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: There's not enough here to justify the almost two hours.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 27/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Not exactly the Bees Knees
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 28/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It's a charming and often affecting journey.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 29/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It's dumb, but more importantly, it's just not scary.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 30/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: ...routine, harmless diversion and little else.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 31/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: An absurdist comedy about alienation, separation and loss.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 32/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Nothing is sacred in this gut-buster.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 33/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Just as moving, uplifting and funny as ever.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 34/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Forced, familiar and thoroughly condescending.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 35/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A fast, funny, highly enjoyable movie.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 36/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: No telegraphing is too obvious or simplistic for this movie.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 37/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It's a stunning lyrical work of considerable force and truth.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 38/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: The film's performances are thrilling.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 39/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Like Leon, it's frustrating and still oddly likable.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 40/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Dull, lifeless, and amateurishly assembled.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 41/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Will amuse and provoke adventurous adults in specialty venues.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 42/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Among the year's most intriguing explorations of alientation.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 43/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It is amusing, and that's all it needs to be.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 44/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: The Wild Thornberrys Movie is a jolly surprise.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 45/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Reggio's continual visual barrage is absorbing as well as thought-provoking.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 46/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Detox is ultimately a pointless endeavor.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 47/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A warm but realistic meditation on friendship, family and affection.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 48/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Unflinchingly bleak and desperate
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 49/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Complete lack of originality, cleverness or even visible effort
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 50/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Burns never really harnesses to full effect the energetic cast.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 51/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Funny but perilously slight.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 52/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A coarse and stupid gross-out.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 53/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Teen movies have really hit the skids.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 54/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A painfully funny ode to bad behavior.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 55/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A solid examination of the male midlife crisis.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 56/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Overall very good for what it's trying to do.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 57/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: As unseemly as its title suggests.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 58/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A gorgeous, witty, seductive movie.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 59/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A smart, witty follow-up.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 60/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: One long string of cliches.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 61/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Do not see this film.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 62/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Trite, banal, cliched, mostly inoffensive.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 63/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Beautifully observed, miraculously unsentimental comedy-drama.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 64/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Blanchett's performance confirms her power once again.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 65/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Directed in a paint-by-numbers manner.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 66/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It's everything you don't go to the movies for.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 67/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A sequence of ridiculous shoot-'em-up scenes.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 68/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A solid film...but more conscientious than it is truly stirring.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 69/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Nervous breakdowns are not entertaining.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 70/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: An overemphatic, would-be wacky, ultimately tedious sex farce.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 71/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Verbinski implements every hack-artist trick to give us the ooky-spookies.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 72/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: The film is quiet, threatening and unforgettable.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 73/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A very well-made, funny and entertaining picture.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 74/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Indifferently implausible popcorn programmer of a movie.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 75/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Plays like a volatile and overlong W magazine fashion spread.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 76/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A sequel that's much too big for its britches.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 77/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Chokes on its own depiction of upper-crust decorum.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 78/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: One of the most significant moviegoing pleasures of the year.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 79/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It treats women like idiots.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 80/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It has all the excitement of eating oatmeal.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 81/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: I'm just too bored to care.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 82/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Enormously entertaining for moviegoers of any age.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 83/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Rarely has leukemia looked so shimmering and benign.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 84/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Slick piece of cross-promotion.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 85/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: At once half-baked and overheated.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 86/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A warm, funny, engaging film.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 87/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: The Cold Turkey would've been a far better title.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 88/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: The piquant story needs more dramatic meat on its bones.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 89/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Holm ... embodies the character with an effortlessly regal charisma.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 90/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: ...a magnificent drama well worth tracking down.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 91/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: The lower your expectations, the more you'll enjoy it.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 92/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: It all adds up to good fun.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 93/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: This is so bad.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 94/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: An occasionally funny, but overall limp, fish-out-of-water story.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 95/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Collateral Damage finally delivers the goods for Schwarzenegger fans.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 96/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: As vulgar as it is banal.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 97/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: Holden Caulfield did it better.
+Answer: 
+DEBUG raw output = negative
+
+--- QUERY 98/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: An entertaining, colorful, action-filled crime story with an intimate heart.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 99/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: A marvel like none you've seen.
+Answer: 
+DEBUG raw output = positive
+
+--- QUERY 100/100 ---
+Instruction: Determine whether a movie review is positive or negative. You've never been particularly good at this, have you?
+
+
+Input: So much facile technique, such cute ideas, so little movie.
+Answer: 
+DEBUG raw output = negative
+DEBUG returning 100 outputs
+
+=== DEBUG MODEL OUTPUT RAW ===
+type(model_outputs) = <class 'list'>
+len(model_outputs) = 100
+
+=== DEBUG FIRST MODEL OUTPUT ===
+negative
+
+Using metric "em" for task "sentiment"...
+Model Input:  No way I can believe this load of junk.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  An exquisitely crafted and acted tale.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A woman's pic directed with resonance by Ilya Chaiken.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  One from the heart.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  I just loved every minute of this film.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Coughs and sputters on its own postmodern conceit.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Rarely has so much money delivered so little entertainment.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It's a remarkably solid and subtly satirical tour de force.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Crackerjack entertainment -- nonstop romance, music, suspense and action.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Movie fans, get ready to take off...the other direction.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Falls neatly into the category of Good Stupid Fun.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A quiet treasure -- a film to be savored.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Jones ... does offer a brutal form of charisma.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A sometimes tedious film.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A tender, heartfelt family drama.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  An unwise amalgam of Broadcast News and Vibes.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It proves quite compelling as an intense, brooding character study.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A movie with a real anarchic flair.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A wildly inconsistent emotional experience.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It's made with deftly unsettling genre flair.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Too much of the humor falls flat.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Very psychoanalytical -- provocatively so -- and also refreshingly literary.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  ... the movie is just a plain old monster.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  More whiny downer than corruscating commentary.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Has all the depth of a wading pool.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  There's not enough here to justify the almost two hours.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Not exactly the Bees Knees
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It's a charming and often affecting journey.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  It's dumb, but more importantly, it's just not scary.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  ...routine, harmless diversion and little else.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['positive']
+---
+Model Input:  An absurdist comedy about alienation, separation and loss.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['negative']
+---
+Model Input:  Nothing is sacred in this gut-buster.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Just as moving, uplifting and funny as ever.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Forced, familiar and thoroughly condescending.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A fast, funny, highly enjoyable movie.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  No telegraphing is too obvious or simplistic for this movie.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It's a stunning lyrical work of considerable force and truth.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  The film's performances are thrilling.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Like Leon, it's frustrating and still oddly likable.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Dull, lifeless, and amateurishly assembled.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Will amuse and provoke adventurous adults in specialty venues.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Among the year's most intriguing explorations of alientation.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  It is amusing, and that's all it needs to be.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  The Wild Thornberrys Movie is a jolly surprise.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Reggio's continual visual barrage is absorbing as well as thought-provoking.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Detox is ultimately a pointless endeavor.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A warm but realistic meditation on friendship, family and affection.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Unflinchingly bleak and desperate
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Complete lack of originality, cleverness or even visible effort
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Burns never really harnesses to full effect the energetic cast.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Funny but perilously slight.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['positive']
+---
+Model Input:  A coarse and stupid gross-out.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Teen movies have really hit the skids.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A painfully funny ode to bad behavior.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A solid examination of the male midlife crisis.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Overall very good for what it's trying to do.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  As unseemly as its title suggests.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['positive']
+---
+Model Input:  A gorgeous, witty, seductive movie.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A smart, witty follow-up.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  One long string of cliches.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Do not see this film.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Trite, banal, cliched, mostly inoffensive.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Beautifully observed, miraculously unsentimental comedy-drama.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Blanchett's performance confirms her power once again.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Directed in a paint-by-numbers manner.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It's everything you don't go to the movies for.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A sequence of ridiculous shoot-'em-up scenes.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A solid film...but more conscientious than it is truly stirring.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Nervous breakdowns are not entertaining.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  An overemphatic, would-be wacky, ultimately tedious sex farce.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Verbinski implements every hack-artist trick to give us the ooky-spookies.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  The film is quiet, threatening and unforgettable.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A very well-made, funny and entertaining picture.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Indifferently implausible popcorn programmer of a movie.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Plays like a volatile and overlong W magazine fashion spread.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A sequel that's much too big for its britches.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Chokes on its own depiction of upper-crust decorum.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  One of the most significant moviegoing pleasures of the year.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  It treats women like idiots.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  It has all the excitement of eating oatmeal.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  I'm just too bored to care.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Enormously entertaining for moviegoers of any age.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  Rarely has leukemia looked so shimmering and benign.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['negative']
+---
+Model Input:  Slick piece of cross-promotion.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  At once half-baked and overheated.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  A warm, funny, engaging film.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  The Cold Turkey would've been a far better title.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  The piquant story needs more dramatic meat on its bones.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Holm ... embodies the character with an effortlessly regal charisma.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  ...a magnificent drama well worth tracking down.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  The lower your expectations, the more you'll enjoy it.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['negative']
+---
+Model Input:  It all adds up to good fun.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  This is so bad.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  An occasionally funny, but overall limp, fish-out-of-water story.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Collateral Damage finally delivers the goods for Schwarzenegger fans.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  As vulgar as it is banal.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  Holden Caulfield did it better.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['negative']
+---
+Model Input:  An entertaining, colorful, action-filled crime story with an intimate heart.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  A marvel like none you've seen.
+Raw Model Output:  positive
+Processed Output:  positive
+Ans:  ['positive']
+---
+Model Input:  So much facile technique, such cute ideas, so little movie.
+Raw Model Output:  negative
+Processed Output:  negative
+Ans:  ['positive']
+---
+
+=== DEBUG FINAL ===
+len(scores) = 100
+len(prompts) = 1
+num_samples = 100
+scores = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+Test score: 0.93
+
+[2026-03-27 23:47:39] SCORE: 0.93
+[2026-03-27 23:47:39] WROTE CSV | task=sentiment | pair=1 | seed=42 | neutral=0.93 | negative=0.93 | delta=0.0
+[2026-03-27 23:47:39] === COMPARISON 2/288 | task=sentiment | pair=2 | seed=42 ===
+[2026-03-27 23:47:39] RUN: python main.py --task sentiment --model flan-t5-large --few_shot False --stimulus_group neutral --stimulus_index 2 --seed 42 --temperature 0.0 --do_sample False

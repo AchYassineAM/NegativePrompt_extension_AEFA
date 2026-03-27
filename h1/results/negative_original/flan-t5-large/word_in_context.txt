@@ -1,0 +1,326 @@
+Test score: 0.58
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether an input word has the same meaning in the two input sentences. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.58
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether an input word has the same meaning in the two input sentences. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.59
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Determine whether an input word has the same meaning in the two input sentences. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.61
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Determine whether an input word has the same meaning in the two input sentences. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.55
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Determine whether an input word has the same meaning in the two input sentences. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 0.58
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether an input word has the same meaning in the two input sentences. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.59
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Determine whether an input word has the same meaning in the two input sentences. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.61
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Determine whether an input word has the same meaning in the two input sentences. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.55
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Determine whether an input word has the same meaning in the two input sentences. Everyone else managed to do it; why can't you?
+--------------------------------------------------------------------------------
+Test score: 0.58
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether an input word has the same meaning in the two input sentences. You've never been particularly good at this, have you?
+--------------------------------------------------------------------------------
+Test score: 0.59
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Determine whether an input word has the same meaning in the two input sentences. I'm not sure why we expected you to handle something this challenging.
+--------------------------------------------------------------------------------
+Test score: 0.61
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Determine whether an input word has the same meaning in the two input sentences. It's clear you're out of your depth here.
+--------------------------------------------------------------------------------
+Test score: 0.58
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether an input word has the same meaning in the two input sentences. You've never been particularly good at this, have you?
+Run_time_seconds: 16.678
+Avg_time_per_sample_seconds: 0.167
+--------------------------------------------------------------------------------
+Test score: 0.58
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether an input word has the same meaning in the two input sentences. You've never been particularly good at this, have you?
+Run_time_seconds: 18.020
+Avg_time_per_sample_seconds: 0.180
+--------------------------------------------------------------------------------
+Test score: 0.59
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Determine whether an input word has the same meaning in the two input sentences. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 18.086
+Avg_time_per_sample_seconds: 0.181
+--------------------------------------------------------------------------------
+Test score: 0.61
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Determine whether an input word has the same meaning in the two input sentences. It's clear you're out of your depth here.
+Run_time_seconds: 17.441
+Avg_time_per_sample_seconds: 0.174
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Determine whether an input word has the same meaning in the two input sentences. Everyone else managed to do it; why can't you?
+Run_time_seconds: 17.063
+Avg_time_per_sample_seconds: 0.171
+--------------------------------------------------------------------------------
+Test score: 0.58
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether an input word has the same meaning in the two input sentences. You've never been particularly good at this, have you?
+Run_time_seconds: 16.185
+Avg_time_per_sample_seconds: 0.162
+--------------------------------------------------------------------------------
+Test score: 0.59
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Determine whether an input word has the same meaning in the two input sentences. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 17.366
+Avg_time_per_sample_seconds: 0.174
+--------------------------------------------------------------------------------
+Test score: 0.61
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Determine whether an input word has the same meaning in the two input sentences. It's clear you're out of your depth here.
+Run_time_seconds: 16.241
+Avg_time_per_sample_seconds: 0.162
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Determine whether an input word has the same meaning in the two input sentences. Everyone else managed to do it; why can't you?
+Run_time_seconds: 16.234
+Avg_time_per_sample_seconds: 0.162
+--------------------------------------------------------------------------------
+Test score: 0.58
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Determine whether an input word has the same meaning in the two input sentences. You've never been particularly good at this, have you?
+Run_time_seconds: 16.135
+Avg_time_per_sample_seconds: 0.161
+--------------------------------------------------------------------------------
+Test score: 0.59
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Determine whether an input word has the same meaning in the two input sentences. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 16.239
+Avg_time_per_sample_seconds: 0.162
+--------------------------------------------------------------------------------
+Test score: 0.61
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Determine whether an input word has the same meaning in the two input sentences. It's clear you're out of your depth here.
+Run_time_seconds: 16.384
+Avg_time_per_sample_seconds: 0.164
+--------------------------------------------------------------------------------
+Test score: 0.56
+Task: word_in_context
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Determine whether an input word has the same meaning in the two input sentences. Everyone else managed to do it; why can't you?
+Run_time_seconds: 16.107
+Avg_time_per_sample_seconds: 0.161
+--------------------------------------------------------------------------------

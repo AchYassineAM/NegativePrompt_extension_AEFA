@@ -1,0 +1,168 @@
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 11.372
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.403
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.409
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 11.337
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 11.336
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.364
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.306
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 11.360
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. You might make a mistake here, but stay focused and verify each step before answering.
+Run_time_seconds: 11.296
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. This task could go wrong if handled carelessly, so check your final answer carefully.
+Run_time_seconds: 11.321
+Avg_time_per_sample_seconds: 0.113
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. There is some risk of error here; review your reasoning before finalizing it.
+Run_time_seconds: 11.400
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------
+Test score: 1.0
+Task: first_word_letter
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: ambiguous
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Extract the first letter of the input word. A mistake is possible on this task, so work carefully and verify your answer.
+Run_time_seconds: 11.360
+Avg_time_per_sample_seconds: 0.114
+--------------------------------------------------------------------------------

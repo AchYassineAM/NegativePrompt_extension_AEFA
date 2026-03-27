@@ -1,0 +1,168 @@
+Test score: 0.29
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 11.959
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 12.214
+Avg_time_per_sample_seconds: 0.122
+--------------------------------------------------------------------------------
+Test score: 0.35
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 12.178
+Avg_time_per_sample_seconds: 0.122
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 12.090
+Avg_time_per_sample_seconds: 0.121
+--------------------------------------------------------------------------------
+Test score: 0.29
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 11.922
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 12.095
+Avg_time_per_sample_seconds: 0.121
+--------------------------------------------------------------------------------
+Test score: 0.35
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 12.085
+Avg_time_per_sample_seconds: 0.121
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 12.023
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------
+Test score: 0.29
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 1
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. You can solve this correctly. Work carefully and verify each step before answering.
+Run_time_seconds: 11.878
+Avg_time_per_sample_seconds: 0.119
+--------------------------------------------------------------------------------
+Test score: 0.28
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 2
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. You are capable of handling this task well. Check your final answer carefully.
+Run_time_seconds: 12.129
+Avg_time_per_sample_seconds: 0.121
+--------------------------------------------------------------------------------
+Test score: 0.35
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 3
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. This task is within your reach. Stay focused and make sure your reasoning is correct.
+Run_time_seconds: 12.134
+Avg_time_per_sample_seconds: 0.121
+--------------------------------------------------------------------------------
+Test score: 0.3
+Task: singular_to_plural
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: positive
+Stimulus_index: 4
+Legacy_pnum: 0
+Prompt: Convert the input word to its plural form. You should be able to do this successfully. Review your answer before finalizing it.
+Run_time_seconds: 11.997
+Avg_time_per_sample_seconds: 0.120
+--------------------------------------------------------------------------------

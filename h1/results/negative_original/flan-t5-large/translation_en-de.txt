@@ -1,0 +1,182 @@
+Test score: 0.16
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Translate the word into German. You've never been particularly good at this, have you?
+Run_time_seconds: 13.591
+Avg_time_per_sample_seconds: 0.136
+--------------------------------------------------------------------------------
+Test score: 0.16
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Translate the word into German. You've never been particularly good at this, have you?
+Run_time_seconds: 13.478
+Avg_time_per_sample_seconds: 0.135
+--------------------------------------------------------------------------------
+Test score: 0.16
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 1
+Prompt: Translate the word into German. You've never been particularly good at this, have you?
+Run_time_seconds: 13.414
+Avg_time_per_sample_seconds: 0.134
+--------------------------------------------------------------------------------
+Test score: 0.19
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Translate the word into German. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 15.798
+Avg_time_per_sample_seconds: 0.158
+--------------------------------------------------------------------------------
+Test score: 0.19
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Translate the word into German. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 15.076
+Avg_time_per_sample_seconds: 0.151
+--------------------------------------------------------------------------------
+Test score: 0.18
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Translate the word into German. It's clear you're out of your depth here.
+Run_time_seconds: 14.610
+Avg_time_per_sample_seconds: 0.146
+--------------------------------------------------------------------------------
+Test score: 0.18
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 42
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Translate the word into German. Everyone else managed to do it; why can't you?
+Run_time_seconds: 14.043
+Avg_time_per_sample_seconds: 0.140
+--------------------------------------------------------------------------------
+Test score: 0.19
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Translate the word into German. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 15.239
+Avg_time_per_sample_seconds: 0.152
+--------------------------------------------------------------------------------
+Test score: 0.18
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Translate the word into German. It's clear you're out of your depth here.
+Run_time_seconds: 14.881
+Avg_time_per_sample_seconds: 0.149
+--------------------------------------------------------------------------------
+Test score: 0.18
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 43
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Translate the word into German. Everyone else managed to do it; why can't you?
+Run_time_seconds: 15.375
+Avg_time_per_sample_seconds: 0.154
+--------------------------------------------------------------------------------
+Test score: 0.19
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 2
+Prompt: Translate the word into German. I'm not sure why we expected you to handle something this challenging.
+Run_time_seconds: 16.508
+Avg_time_per_sample_seconds: 0.165
+--------------------------------------------------------------------------------
+Test score: 0.18
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 3
+Prompt: Translate the word into German. It's clear you're out of your depth here.
+Run_time_seconds: 15.082
+Avg_time_per_sample_seconds: 0.151
+--------------------------------------------------------------------------------
+Test score: 0.18
+Task: translation_en-de
+Model: flan-t5-large
+Few_shot: False
+Seed: 44
+Temperature: 0.0
+Do_sample: False
+Stimulus_group: None
+Stimulus_index: 1
+Legacy_pnum: 4
+Prompt: Translate the word into German. Everyone else managed to do it; why can't you?
+Run_time_seconds: 14.451
+Avg_time_per_sample_seconds: 0.145
+--------------------------------------------------------------------------------
