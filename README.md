@@ -1,6 +1,7 @@
 # NegativePrompt — Reproduction and Extension Study
 
 This repository contains the full experimental pipeline and final deliverables of our Master's thesis project. 
+
 It presents a **reproduction and extension study** of the paper:
 
 **NegativePrompt: Leveraging Psychology for Large Language Models Enhancement via Negative Emotional Stimuli**  
@@ -9,6 +10,13 @@ Xu Wang, Cheng Li, Yi Chang, Jindong Wang, Yuan Wu
 
 ---
 
+## Deliverables
+
+- [Download report](./)
+- [Download report](./)
+- [Download report](./)
+
+---
 ## Authors
 
 **Reproduction and extension study conducted by:**
