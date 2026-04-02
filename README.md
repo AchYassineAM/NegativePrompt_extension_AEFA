@@ -12,7 +12,7 @@ Xu Wang, Cheng Li, Yi Chang, Jindong Wang, Yuan Wu
 
 ## Deliverables
 
-- [Download report](./Poster_Negativeprompt_extension_Master)
+- [Poster](./Poster_Negativeprompt_extension_Master)
 - [Download report](./)
 - [Download report](./)
 
