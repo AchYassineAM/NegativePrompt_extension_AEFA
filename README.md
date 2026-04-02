@@ -14,7 +14,7 @@ Xu Wang, Cheng Li, Yi Chang, Jindong Wang, Yuan Wu
 
 - 📰 [Download Poster](deliverables/Poster_Negativeprompt_extension_Master.png)
 - 📙 [Download report](deliverables/report_Negativeprompt_extension_mastersthesis.pdf)
-- 🎬[Download video](deliverables/)
+- 🎬[Download video](deliverables/video.txt)
 
 ---
 ## Authors
