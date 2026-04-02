@@ -148,13 +148,3 @@ Dans VSCode / GitHub, tu auras :
 - rendu “papier + repo sérieux”
 
 ---
-
-## Si tu veux encore améliorer
-
-Je peux ajouter :
-
-- badges (Python version, licence, etc.)
-- une section **Results (avec figures)**
-- une section **Reproducibility checklist (niveau conf)**
-
----
